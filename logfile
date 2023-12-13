@@ -1,0 +1,1703 @@
+2023-12-12 16:18:30.921 JST [26957] LOG:  starting PostgreSQL 14.10 (Homebrew) on aarch64-apple-darwin22.6.0, compiled by Apple clang version 14.0.3 (clang-1403.0.22.14.1), 64-bit
+2023-12-12 16:18:30.922 JST [26957] LOG:  listening on IPv6 address "::1", port 5432
+2023-12-12 16:18:30.922 JST [26957] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-12-12 16:18:30.924 JST [26957] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-12-12 16:18:30.929 JST [26958] LOG:  database system was shut down at 2023-12-12 16:17:36 JST
+2023-12-12 16:18:30.932 JST [26957] LOG:  database system is ready to accept connections
+2023-12-12 16:18:48.931 JST [26966] FATAL:  database "lizard" does not exist
+2023-12-12 16:19:26.845 JST [26970] FATAL:  database "crud_database" does not exist
+2023-12-12 16:19:26.852 JST [26972] FATAL:  database "crud_database" does not exist
+2023-12-12 16:20:26.857 JST [27013] FATAL:  database "crud_database" does not exist
+2023-12-12 16:20:26.863 JST [27015] FATAL:  database "crud_database" does not exist
+2023-12-12 16:21:26.838 JST [27019] FATAL:  database "crud_database" does not exist
+2023-12-12 16:21:26.845 JST [27021] FATAL:  database "crud_database" does not exist
+2023-12-12 16:22:26.856 JST [27024] FATAL:  database "crud_database" does not exist
+2023-12-12 16:22:26.863 JST [27026] FATAL:  database "crud_database" does not exist
+2023-12-12 16:23:26.843 JST [27044] FATAL:  database "crud_database" does not exist
+2023-12-12 16:23:26.850 JST [27046] FATAL:  database "crud_database" does not exist
+2023-12-12 16:24:26.842 JST [27050] FATAL:  database "crud_database" does not exist
+2023-12-12 16:24:26.849 JST [27052] FATAL:  database "crud_database" does not exist
+2023-12-12 16:25:26.833 JST [27107] FATAL:  database "crud_database" does not exist
+2023-12-12 16:25:26.838 JST [27109] FATAL:  database "crud_database" does not exist
+2023-12-12 16:26:26.871 JST [27130] FATAL:  database "crud_database" does not exist
+2023-12-12 16:26:26.875 JST [27132] FATAL:  database "crud_database" does not exist
+2023-12-12 16:27:26.833 JST [27145] FATAL:  database "crud_database" does not exist
+2023-12-12 16:27:26.841 JST [27147] FATAL:  database "crud_database" does not exist
+2023-12-12 16:28:26.826 JST [27154] FATAL:  database "crud_database" does not exist
+2023-12-12 16:28:26.833 JST [27156] FATAL:  database "crud_database" does not exist
+2023-12-12 16:29:26.833 JST [27160] FATAL:  database "crud_database" does not exist
+2023-12-12 16:29:26.839 JST [27162] FATAL:  database "crud_database" does not exist
+2023-12-12 16:30:26.832 JST [27176] FATAL:  database "crud_database" does not exist
+2023-12-12 16:30:26.842 JST [27178] FATAL:  database "crud_database" does not exist
+2023-12-12 16:31:26.825 JST [27205] FATAL:  database "crud_database" does not exist
+2023-12-12 16:31:26.837 JST [27207] FATAL:  database "crud_database" does not exist
+2023-12-12 16:32:26.845 JST [27227] FATAL:  database "crud_database" does not exist
+2023-12-12 16:32:26.851 JST [27229] FATAL:  database "crud_database" does not exist
+2023-12-12 16:33:26.841 JST [27235] FATAL:  database "crud_database" does not exist
+2023-12-12 16:33:26.846 JST [27237] FATAL:  database "crud_database" does not exist
+2023-12-12 16:34:26.840 JST [27244] FATAL:  database "crud_database" does not exist
+2023-12-12 16:34:26.847 JST [27246] FATAL:  database "crud_database" does not exist
+2023-12-12 16:35:26.834 JST [27255] FATAL:  database "crud_database" does not exist
+2023-12-12 16:35:26.842 JST [27257] FATAL:  database "crud_database" does not exist
+2023-12-12 16:36:26.819 JST [27260] FATAL:  database "crud_database" does not exist
+2023-12-12 16:36:26.826 JST [27262] FATAL:  database "crud_database" does not exist
+2023-12-12 16:37:26.825 JST [27265] FATAL:  database "crud_database" does not exist
+2023-12-12 16:37:26.832 JST [27267] FATAL:  database "crud_database" does not exist
+2023-12-12 16:38:26.830 JST [27276] FATAL:  database "crud_database" does not exist
+2023-12-12 16:38:26.837 JST [27278] FATAL:  database "crud_database" does not exist
+2023-12-12 16:39:26.810 JST [27315] FATAL:  database "crud_database" does not exist
+2023-12-12 16:39:26.814 JST [27317] FATAL:  database "crud_database" does not exist
+2023-12-12 16:40:26.811 JST [27326] FATAL:  database "crud_database" does not exist
+2023-12-12 16:40:26.821 JST [27328] FATAL:  database "crud_database" does not exist
+2023-12-12 16:41:26.810 JST [27338] FATAL:  database "crud_database" does not exist
+2023-12-12 16:41:26.816 JST [27340] FATAL:  database "crud_database" does not exist
+2023-12-12 16:42:26.810 JST [27367] FATAL:  database "crud_database" does not exist
+2023-12-12 16:42:26.817 JST [27369] FATAL:  database "crud_database" does not exist
+2023-12-12 16:43:26.820 JST [27411] FATAL:  database "crud_database" does not exist
+2023-12-12 16:43:26.824 JST [27413] FATAL:  database "crud_database" does not exist
+2023-12-12 16:44:26.821 JST [27490] FATAL:  database "crud_database" does not exist
+2023-12-12 16:44:26.828 JST [27494] FATAL:  database "crud_database" does not exist
+2023-12-12 16:45:26.822 JST [27545] FATAL:  database "crud_database" does not exist
+2023-12-12 16:45:26.837 JST [27547] FATAL:  database "crud_database" does not exist
+2023-12-12 16:46:26.806 JST [27571] FATAL:  database "crud_database" does not exist
+2023-12-12 16:46:26.812 JST [27573] FATAL:  database "crud_database" does not exist
+2023-12-12 16:47:26.830 JST [27578] FATAL:  database "crud_database" does not exist
+2023-12-12 16:47:26.837 JST [27580] FATAL:  database "crud_database" does not exist
+2023-12-12 16:48:26.815 JST [27637] FATAL:  database "crud_database" does not exist
+2023-12-12 16:48:26.821 JST [27639] FATAL:  database "crud_database" does not exist
+2023-12-12 16:49:26.812 JST [27681] FATAL:  database "crud_database" does not exist
+2023-12-12 16:49:26.820 JST [27683] FATAL:  database "crud_database" does not exist
+2023-12-12 16:50:26.811 JST [27700] FATAL:  database "crud_database" does not exist
+2023-12-12 16:50:26.819 JST [27702] FATAL:  database "crud_database" does not exist
+2023-12-12 16:51:26.791 JST [27715] FATAL:  database "crud_database" does not exist
+2023-12-12 16:51:26.801 JST [27717] FATAL:  database "crud_database" does not exist
+2023-12-12 16:52:26.820 JST [27766] FATAL:  database "crud_database" does not exist
+2023-12-12 16:52:26.828 JST [27768] FATAL:  database "crud_database" does not exist
+2023-12-12 16:53:26.827 JST [27896] FATAL:  database "crud_database" does not exist
+2023-12-12 16:53:26.841 JST [27898] FATAL:  database "crud_database" does not exist
+2023-12-12 16:54:26.810 JST [27911] FATAL:  database "crud_database" does not exist
+2023-12-12 16:54:26.818 JST [27913] FATAL:  database "crud_database" does not exist
+2023-12-12 16:55:26.791 JST [27917] FATAL:  database "crud_database" does not exist
+2023-12-12 16:55:26.802 JST [27919] FATAL:  database "crud_database" does not exist
+2023-12-12 16:56:26.791 JST [27923] FATAL:  database "crud_database" does not exist
+2023-12-12 16:56:26.797 JST [27925] FATAL:  database "crud_database" does not exist
+2023-12-12 16:57:26.781 JST [27940] FATAL:  database "crud_database" does not exist
+2023-12-12 16:57:26.785 JST [27942] FATAL:  database "crud_database" does not exist
+2023-12-12 16:58:26.800 JST [27948] FATAL:  database "crud_database" does not exist
+2023-12-12 16:58:26.807 JST [27950] FATAL:  database "crud_database" does not exist
+2023-12-12 16:59:26.795 JST [27966] FATAL:  database "crud_database" does not exist
+2023-12-12 16:59:26.802 JST [27968] FATAL:  database "crud_database" does not exist
+2023-12-12 17:00:26.810 JST [27995] FATAL:  database "crud_database" does not exist
+2023-12-12 17:00:26.816 JST [27997] FATAL:  database "crud_database" does not exist
+2023-12-12 17:01:26.804 JST [28000] FATAL:  database "crud_database" does not exist
+2023-12-12 17:01:26.813 JST [28002] FATAL:  database "crud_database" does not exist
+2023-12-12 17:02:26.760 JST [28006] FATAL:  database "crud_database" does not exist
+2023-12-12 17:02:26.767 JST [28008] FATAL:  database "crud_database" does not exist
+2023-12-12 17:03:26.770 JST [28011] FATAL:  database "crud_database" does not exist
+2023-12-12 17:03:26.777 JST [28013] FATAL:  database "crud_database" does not exist
+2023-12-12 17:04:26.766 JST [28017] FATAL:  database "crud_database" does not exist
+2023-12-12 17:04:26.773 JST [28019] FATAL:  database "crud_database" does not exist
+2023-12-12 17:05:26.754 JST [28023] FATAL:  database "crud_database" does not exist
+2023-12-12 17:05:26.763 JST [28025] FATAL:  database "crud_database" does not exist
+2023-12-12 17:06:26.776 JST [28027] FATAL:  database "crud_database" does not exist
+2023-12-12 17:06:26.782 JST [28029] FATAL:  database "crud_database" does not exist
+2023-12-12 17:07:26.777 JST [28032] FATAL:  database "crud_database" does not exist
+2023-12-12 17:07:26.784 JST [28034] FATAL:  database "crud_database" does not exist
+2023-12-12 17:08:26.788 JST [28040] FATAL:  database "crud_database" does not exist
+2023-12-12 17:08:26.800 JST [28042] FATAL:  database "crud_database" does not exist
+2023-12-12 17:09:26.746 JST [28049] FATAL:  database "crud_database" does not exist
+2023-12-12 17:09:26.753 JST [28051] FATAL:  database "crud_database" does not exist
+2023-12-12 17:10:26.753 JST [28055] FATAL:  database "crud_database" does not exist
+2023-12-12 17:10:26.760 JST [28057] FATAL:  database "crud_database" does not exist
+2023-12-12 17:11:26.757 JST [28064] FATAL:  database "crud_database" does not exist
+2023-12-12 17:11:26.766 JST [28066] FATAL:  database "crud_database" does not exist
+2023-12-12 17:12:26.737 JST [28073] FATAL:  database "crud_database" does not exist
+2023-12-12 17:12:26.744 JST [28075] FATAL:  database "crud_database" does not exist
+2023-12-12 17:13:26.774 JST [28082] FATAL:  database "crud_database" does not exist
+2023-12-12 17:13:26.781 JST [28084] FATAL:  database "crud_database" does not exist
+2023-12-12 17:14:26.760 JST [28087] FATAL:  database "crud_database" does not exist
+2023-12-12 17:14:26.767 JST [28089] FATAL:  database "crud_database" does not exist
+2023-12-12 17:15:26.771 JST [28106] FATAL:  database "crud_database" does not exist
+2023-12-12 17:15:26.777 JST [28108] FATAL:  database "crud_database" does not exist
+2023-12-12 17:16:26.806 JST [28133] FATAL:  database "crud_database" does not exist
+2023-12-12 17:16:26.813 JST [28137] FATAL:  database "crud_database" does not exist
+2023-12-12 17:17:26.839 JST [28166] FATAL:  database "crud_database" does not exist
+2023-12-12 17:17:26.849 JST [28170] FATAL:  database "crud_database" does not exist
+2023-12-12 17:18:26.792 JST [28183] FATAL:  database "crud_database" does not exist
+2023-12-12 17:18:26.798 JST [28185] FATAL:  database "crud_database" does not exist
+2023-12-12 17:19:26.772 JST [28206] FATAL:  database "crud_database" does not exist
+2023-12-12 17:19:26.776 JST [28208] FATAL:  database "crud_database" does not exist
+2023-12-12 17:20:26.757 JST [28220] FATAL:  database "crud_database" does not exist
+2023-12-12 17:20:26.764 JST [28222] FATAL:  database "crud_database" does not exist
+2023-12-12 17:21:26.730 JST [28225] FATAL:  database "crud_database" does not exist
+2023-12-12 17:21:26.734 JST [28227] FATAL:  database "crud_database" does not exist
+2023-12-12 17:22:26.761 JST [28231] FATAL:  database "crud_database" does not exist
+2023-12-12 17:22:26.766 JST [28233] FATAL:  database "crud_database" does not exist
+2023-12-12 17:23:26.740 JST [28273] FATAL:  database "crud_database" does not exist
+2023-12-12 17:23:26.746 JST [28275] FATAL:  database "crud_database" does not exist
+2023-12-12 17:24:26.735 JST [28285] FATAL:  database "crud_database" does not exist
+2023-12-12 17:24:26.741 JST [28287] FATAL:  database "crud_database" does not exist
+2023-12-12 17:25:26.726 JST [28310] FATAL:  database "crud_database" does not exist
+2023-12-12 17:25:26.733 JST [28312] FATAL:  database "crud_database" does not exist
+2023-12-12 17:26:26.746 JST [28317] FATAL:  database "crud_database" does not exist
+2023-12-12 17:26:26.753 JST [28319] FATAL:  database "crud_database" does not exist
+2023-12-12 17:27:26.733 JST [28343] FATAL:  database "crud_database" does not exist
+2023-12-12 17:27:26.740 JST [28345] FATAL:  database "crud_database" does not exist
+2023-12-12 17:28:26.754 JST [28375] FATAL:  database "crud_database" does not exist
+2023-12-12 17:28:26.762 JST [28377] FATAL:  database "crud_database" does not exist
+2023-12-12 17:29:26.746 JST [28406] FATAL:  database "crud_database" does not exist
+2023-12-12 17:29:26.753 JST [28408] FATAL:  database "crud_database" does not exist
+2023-12-12 17:30:26.763 JST [28419] FATAL:  database "crud_database" does not exist
+2023-12-12 17:30:26.767 JST [28421] FATAL:  database "crud_database" does not exist
+2023-12-12 17:31:26.761 JST [28429] FATAL:  database "crud_database" does not exist
+2023-12-12 17:31:26.766 JST [28431] FATAL:  database "crud_database" does not exist
+2023-12-12 17:32:26.725 JST [28435] FATAL:  database "crud_database" does not exist
+2023-12-12 17:32:26.733 JST [28437] FATAL:  database "crud_database" does not exist
+2023-12-12 17:33:26.738 JST [28445] FATAL:  database "crud_database" does not exist
+2023-12-12 17:33:26.746 JST [28447] FATAL:  database "crud_database" does not exist
+2023-12-12 17:34:26.743 JST [28456] FATAL:  database "crud_database" does not exist
+2023-12-12 17:34:26.751 JST [28458] FATAL:  database "crud_database" does not exist
+2023-12-12 17:35:26.743 JST [28462] FATAL:  database "crud_database" does not exist
+2023-12-12 17:35:26.753 JST [28464] FATAL:  database "crud_database" does not exist
+2023-12-12 17:36:26.755 JST [28532] FATAL:  database "crud_database" does not exist
+2023-12-12 17:36:26.761 JST [28534] FATAL:  database "crud_database" does not exist
+2023-12-12 17:37:26.743 JST [28616] FATAL:  database "crud_database" does not exist
+2023-12-12 17:37:26.750 JST [28618] FATAL:  database "crud_database" does not exist
+2023-12-12 17:38:26.742 JST [28627] FATAL:  database "crud_database" does not exist
+2023-12-12 17:38:26.747 JST [28629] FATAL:  database "crud_database" does not exist
+2023-12-12 17:39:26.740 JST [28632] FATAL:  database "crud_database" does not exist
+2023-12-12 17:39:26.747 JST [28634] FATAL:  database "crud_database" does not exist
+2023-12-12 17:40:26.784 JST [28639] FATAL:  database "crud_database" does not exist
+2023-12-12 17:40:26.790 JST [28641] FATAL:  database "crud_database" does not exist
+2023-12-12 17:41:26.746 JST [28649] FATAL:  database "crud_database" does not exist
+2023-12-12 17:41:26.755 JST [28651] FATAL:  database "crud_database" does not exist
+2023-12-12 17:42:26.761 JST [28656] FATAL:  database "crud_database" does not exist
+2023-12-12 17:42:26.765 JST [28658] FATAL:  database "crud_database" does not exist
+2023-12-12 17:43:26.741 JST [28704] FATAL:  database "crud_database" does not exist
+2023-12-12 17:43:26.747 JST [28706] FATAL:  database "crud_database" does not exist
+2023-12-12 17:44:26.764 JST [28710] FATAL:  database "crud_database" does not exist
+2023-12-12 17:44:26.771 JST [28712] FATAL:  database "crud_database" does not exist
+2023-12-12 17:45:26.751 JST [28775] FATAL:  database "crud_database" does not exist
+2023-12-12 17:45:26.757 JST [28777] FATAL:  database "crud_database" does not exist
+2023-12-12 17:46:26.754 JST [28797] FATAL:  database "crud_database" does not exist
+2023-12-12 17:46:26.762 JST [28799] FATAL:  database "crud_database" does not exist
+2023-12-12 17:47:26.756 JST [28833] FATAL:  database "crud_database" does not exist
+2023-12-12 17:47:26.763 JST [28835] FATAL:  database "crud_database" does not exist
+2023-12-12 17:48:26.774 JST [28845] FATAL:  database "crud_database" does not exist
+2023-12-12 17:48:26.782 JST [28847] FATAL:  database "crud_database" does not exist
+2023-12-12 17:49:26.724 JST [28851] FATAL:  database "crud_database" does not exist
+2023-12-12 17:49:26.729 JST [28853] FATAL:  database "crud_database" does not exist
+2023-12-12 17:50:26.730 JST [28859] FATAL:  database "crud_database" does not exist
+2023-12-12 17:50:26.736 JST [28861] FATAL:  database "crud_database" does not exist
+2023-12-12 17:51:26.744 JST [28867] FATAL:  database "crud_database" does not exist
+2023-12-12 17:51:26.749 JST [28870] FATAL:  database "crud_database" does not exist
+2023-12-12 17:52:26.737 JST [28874] FATAL:  database "crud_database" does not exist
+2023-12-12 17:52:26.743 JST [28876] FATAL:  database "crud_database" does not exist
+2023-12-12 17:53:26.742 JST [28921] FATAL:  database "crud_database" does not exist
+2023-12-12 17:53:26.750 JST [28923] FATAL:  database "crud_database" does not exist
+2023-12-12 17:54:26.742 JST [28928] FATAL:  database "crud_database" does not exist
+2023-12-12 17:54:26.751 JST [28930] FATAL:  database "crud_database" does not exist
+2023-12-12 17:55:26.727 JST [28935] FATAL:  database "crud_database" does not exist
+2023-12-12 17:55:26.734 JST [28937] FATAL:  database "crud_database" does not exist
+2023-12-12 17:56:26.759 JST [28942] FATAL:  database "crud_database" does not exist
+2023-12-12 17:56:26.766 JST [28944] FATAL:  database "crud_database" does not exist
+2023-12-12 17:57:26.720 JST [28949] FATAL:  database "crud_database" does not exist
+2023-12-12 17:57:26.727 JST [28951] FATAL:  database "crud_database" does not exist
+2023-12-12 17:58:26.742 JST [28955] FATAL:  database "crud_database" does not exist
+2023-12-12 17:58:26.749 JST [28957] FATAL:  database "crud_database" does not exist
+2023-12-12 17:59:26.740 JST [28961] FATAL:  database "crud_database" does not exist
+2023-12-12 17:59:26.751 JST [28963] FATAL:  database "crud_database" does not exist
+2023-12-12 18:00:26.712 JST [28966] FATAL:  database "crud_database" does not exist
+2023-12-12 18:00:26.720 JST [28968] FATAL:  database "crud_database" does not exist
+2023-12-12 18:01:26.739 JST [28978] FATAL:  database "crud_database" does not exist
+2023-12-12 18:01:26.746 JST [28980] FATAL:  database "crud_database" does not exist
+2023-12-12 18:02:26.732 JST [28982] FATAL:  database "crud_database" does not exist
+2023-12-12 18:02:26.739 JST [28984] FATAL:  database "crud_database" does not exist
+2023-12-12 18:03:26.743 JST [28988] FATAL:  database "crud_database" does not exist
+2023-12-12 18:03:26.752 JST [28990] FATAL:  database "crud_database" does not exist
+2023-12-12 18:04:26.734 JST [29007] FATAL:  database "crud_database" does not exist
+2023-12-12 18:04:26.740 JST [29009] FATAL:  database "crud_database" does not exist
+2023-12-12 18:05:26.738 JST [29047] FATAL:  database "crud_database" does not exist
+2023-12-12 18:05:26.744 JST [29049] FATAL:  database "crud_database" does not exist
+2023-12-12 18:06:26.719 JST [29057] FATAL:  database "crud_database" does not exist
+2023-12-12 18:06:26.726 JST [29059] FATAL:  database "crud_database" does not exist
+2023-12-12 18:07:26.733 JST [29109] FATAL:  database "crud_database" does not exist
+2023-12-12 18:07:26.737 JST [29111] FATAL:  database "crud_database" does not exist
+2023-12-12 18:08:26.728 JST [29119] FATAL:  database "crud_database" does not exist
+2023-12-12 18:08:26.732 JST [29121] FATAL:  database "crud_database" does not exist
+2023-12-12 18:09:26.715 JST [29127] FATAL:  database "crud_database" does not exist
+2023-12-12 18:09:26.722 JST [29129] FATAL:  database "crud_database" does not exist
+2023-12-12 18:10:26.738 JST [29135] FATAL:  database "crud_database" does not exist
+2023-12-12 18:10:26.745 JST [29137] FATAL:  database "crud_database" does not exist
+2023-12-12 18:11:26.722 JST [29140] FATAL:  database "crud_database" does not exist
+2023-12-12 18:11:26.729 JST [29142] FATAL:  database "crud_database" does not exist
+2023-12-12 18:12:26.736 JST [29147] FATAL:  database "crud_database" does not exist
+2023-12-12 18:12:26.743 JST [29149] FATAL:  database "crud_database" does not exist
+2023-12-12 18:13:26.718 JST [29152] FATAL:  database "crud_database" does not exist
+2023-12-12 18:13:26.721 JST [29154] FATAL:  database "crud_database" does not exist
+2023-12-12 18:14:26.733 JST [29233] FATAL:  database "crud_database" does not exist
+2023-12-12 18:14:26.741 JST [29235] FATAL:  database "crud_database" does not exist
+2023-12-12 18:15:26.728 JST [29280] FATAL:  database "crud_database" does not exist
+2023-12-12 18:15:26.732 JST [29282] FATAL:  database "crud_database" does not exist
+2023-12-12 18:16:26.827 JST [29373] FATAL:  database "crud_database" does not exist
+2023-12-12 18:16:26.835 JST [29377] FATAL:  database "crud_database" does not exist
+2023-12-12 18:17:26.753 JST [29396] FATAL:  database "crud_database" does not exist
+2023-12-12 18:17:26.760 JST [29398] FATAL:  database "crud_database" does not exist
+2023-12-12 18:18:26.747 JST [29435] FATAL:  database "crud_database" does not exist
+2023-12-12 18:18:26.752 JST [29437] FATAL:  database "crud_database" does not exist
+2023-12-12 18:19:26.739 JST [29487] FATAL:  database "crud_database" does not exist
+2023-12-12 18:19:26.744 JST [29489] FATAL:  database "crud_database" does not exist
+2023-12-12 18:20:26.757 JST [29499] FATAL:  database "crud_database" does not exist
+2023-12-12 18:20:26.762 JST [29501] FATAL:  database "crud_database" does not exist
+2023-12-12 18:21:26.731 JST [29508] FATAL:  database "crud_database" does not exist
+2023-12-12 18:21:26.737 JST [29510] FATAL:  database "crud_database" does not exist
+2023-12-12 18:22:26.722 JST [29533] FATAL:  database "crud_database" does not exist
+2023-12-12 18:22:26.726 JST [29535] FATAL:  database "crud_database" does not exist
+2023-12-12 18:23:26.755 JST [29546] FATAL:  database "crud_database" does not exist
+2023-12-12 18:23:26.763 JST [29548] FATAL:  database "crud_database" does not exist
+2023-12-12 18:24:02.104 JST [29558] FATAL:  role "test" does not exist
+2023-12-12 18:24:26.754 JST [29564] FATAL:  database "crud_database" does not exist
+2023-12-12 18:24:26.760 JST [29566] FATAL:  database "crud_database" does not exist
+2023-12-12 18:25:26.746 JST [29571] FATAL:  database "crud_database" does not exist
+2023-12-12 18:25:26.753 JST [29573] FATAL:  database "crud_database" does not exist
+2023-12-12 18:26:26.720 JST [29585] FATAL:  database "crud_database" does not exist
+2023-12-12 18:26:26.727 JST [29587] FATAL:  database "crud_database" does not exist
+2023-12-12 18:27:19.214 JST [29608] FATAL:  role "test" does not exist
+2023-12-12 18:27:26.747 JST [29611] FATAL:  database "crud_database" does not exist
+2023-12-12 18:27:26.754 JST [29613] FATAL:  database "crud_database" does not exist
+2023-12-12 18:28:26.757 JST [29620] FATAL:  database "crud_database" does not exist
+2023-12-12 18:28:26.763 JST [29622] FATAL:  database "crud_database" does not exist
+2023-12-12 18:28:58.151 JST [29628] FATAL:  role "test" does not exist
+2023-12-12 18:29:03.294 JST [29637] FATAL:  role "test" does not exist
+2023-12-12 18:29:26.755 JST [29643] FATAL:  database "crud_database" does not exist
+2023-12-12 18:29:26.763 JST [29645] FATAL:  database "crud_database" does not exist
+2023-12-12 18:30:26.725 JST [29651] FATAL:  database "crud_database" does not exist
+2023-12-12 18:30:26.731 JST [29653] FATAL:  database "crud_database" does not exist
+2023-12-12 18:31:26.739 JST [29663] FATAL:  database "crud_database" does not exist
+2023-12-12 18:31:26.743 JST [29665] FATAL:  database "crud_database" does not exist
+2023-12-12 18:32:26.761 JST [29672] FATAL:  database "crud_database" does not exist
+2023-12-12 18:32:26.767 JST [29674] FATAL:  database "crud_database" does not exist
+2023-12-12 18:33:13.247 JST [29677] FATAL:  role "test" does not exist
+2023-12-12 18:33:26.731 JST [29684] FATAL:  database "crud_database" does not exist
+2023-12-12 18:33:26.737 JST [29686] FATAL:  database "crud_database" does not exist
+2023-12-12 18:33:35.457 JST [29688] FATAL:  role "test" does not exist
+2023-12-12 18:33:49.582 JST [29695] FATAL:  role "test" does not exist
+2023-12-12 18:34:26.722 JST [29701] FATAL:  database "crud_database" does not exist
+2023-12-12 18:34:26.728 JST [29703] FATAL:  database "crud_database" does not exist
+2023-12-12 18:34:55.798 JST [29707] ERROR:  relation "users" does not exist at character 15
+2023-12-12 18:34:55.798 JST [29707] STATEMENT:  select * from users;
+2023-12-12 18:35:00.622 JST [29708] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:00.626 JST [29710] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:01.582 JST [29711] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:04.684 JST [29712] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:06.580 JST [29713] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:11.578 JST [29714] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:12.606 JST [29715] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:12.659 JST [29717] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:12.664 JST [29718] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:12.671 JST [29719] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:12.673 JST [29720] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:15.886 JST [29721] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:16.870 JST [29722] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:17.627 JST [29723] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:19.618 JST [29724] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:19.652 JST [29725] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:19.656 JST [29726] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:20.801 JST [29727] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:20.825 JST [29728] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:21.819 JST [29729] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:21.844 JST [29730] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:22.639 JST [29731] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:27.632 JST [29732] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:32.642 JST [29733] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:34.686 JST [29734] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:37.633 JST [29736] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:42.639 JST [29738] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:47.626 JST [29739] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:52.637 JST [29740] FATAL:  database "crud_database" does not exist
+2023-12-12 18:35:57.626 JST [29741] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:02.645 JST [29747] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:04.684 JST [29748] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:07.632 JST [29751] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:12.640 JST [29752] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:17.631 JST [29753] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:22.641 JST [29754] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:27.625 JST [29755] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:32.496 JST [29756] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:32.526 JST [29757] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:32.529 JST [29758] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:34.682 JST [29759] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:36.885 JST [29760] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:36.937 JST [29761] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:36.945 JST [29762] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:36.947 JST [29763] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:37.535 JST [29764] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:41.476 JST [29768] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:42.526 JST [29769] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:45.553 JST [29770] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:45.609 JST [29771] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:45.613 JST [29772] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:49.991 JST [29773] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:49.998 JST [29774] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:50.038 JST [29775] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:50.585 JST [29776] FATAL:  database "crud_database" does not exist
+2023-12-12 18:36:55.584 JST [29777] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:00.582 JST [29778] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:04.686 JST [29779] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:05.582 JST [29780] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:06.338 JST [29781] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:06.385 JST [29782] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:10.585 JST [29785] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:11.321 JST [29786] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:11.368 JST [29787] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:15.585 JST [29788] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:20.686 JST [29789] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:25.695 JST [29790] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:30.687 JST [29792] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:34.691 JST [29796] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:35.692 JST [29799] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:40.686 JST [29804] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:45.694 JST [29805] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:50.684 JST [29807] FATAL:  database "crud_database" does not exist
+2023-12-12 18:37:55.692 JST [29810] FATAL:  database "crud_database" does not exist
+2023-12-12 18:38:00.687 JST [29813] FATAL:  database "crud_database" does not exist
+2023-12-12 18:38:04.688 JST [29817] FATAL:  database "crud_database" does not exist
+2023-12-12 18:38:05.694 JST [29818] FATAL:  database "crud_database" does not exist
+2023-12-12 18:38:10.687 JST [29822] FATAL:  database "crud_database" does not exist
+2023-12-12 18:38:15.693 JST [29823] FATAL:  database "crud_database" does not exist
+2023-12-12 18:38:26.687 JST [29824] FATAL:  database "crud_database" does not exist
+2023-12-12 18:39:26.724 JST [29849] FATAL:  database "crud_database" does not exist
+2023-12-12 18:39:26.728 JST [29851] FATAL:  database "crud_database" does not exist
+2023-12-12 18:40:26.745 JST [29862] FATAL:  database "crud_database" does not exist
+2023-12-12 18:40:26.751 JST [29864] FATAL:  database "crud_database" does not exist
+2023-12-12 18:41:26.719 JST [29873] FATAL:  database "crud_database" does not exist
+2023-12-12 18:41:26.725 JST [29875] FATAL:  database "crud_database" does not exist
+2023-12-12 18:42:23.835 JST [29879] FATAL:  database "crud_database" does not exist
+2023-12-12 18:42:23.840 JST [29881] FATAL:  database "crud_database" does not exist
+2023-12-12 18:42:25.581 JST [29882] FATAL:  database "crud_database" does not exist
+2023-12-12 18:42:25.618 JST [29883] FATAL:  database "crud_database" does not exist
+2023-12-12 18:42:31.745 JST [29884] FATAL:  database "crud_database" does not exist
+2023-12-12 18:42:31.828 JST [29885] FATAL:  database "crud_database" does not exist
+2023-12-12 18:42:31.833 JST [29886] FATAL:  database "crud_database" does not exist
+2023-12-12 18:42:34.677 JST [29887] FATAL:  database "crud_database" does not exist
+2023-12-12 18:43:04.743 JST [29901] FATAL:  database "crud_database" does not exist
+2023-12-12 18:43:34.704 JST [29905] FATAL:  database "crud_database" does not exist
+2023-12-12 18:44:04.707 JST [29909] FATAL:  database "crud_database" does not exist
+2023-12-12 18:44:34.717 JST [29914] FATAL:  database "crud_database" does not exist
+2023-12-12 18:45:04.742 JST [29918] FATAL:  database "crud_database" does not exist
+2023-12-12 18:45:34.711 JST [29930] FATAL:  database "crud_database" does not exist
+2023-12-12 18:46:04.704 JST [29945] FATAL:  database "crud_database" does not exist
+2023-12-12 18:46:34.728 JST [29971] FATAL:  database "crud_database" does not exist
+2023-12-12 18:47:04.725 JST [29989] FATAL:  database "crud_database" does not exist
+2023-12-12 18:47:29.766 JST [29992] FATAL:  database "crud_database" does not exist
+2023-12-12 18:47:34.680 JST [29995] FATAL:  database "crud_database" does not exist
+2023-12-12 18:48:04.731 JST [30001] FATAL:  database "crud_database" does not exist
+2023-12-12 18:48:34.713 JST [30010] FATAL:  database "crud_database" does not exist
+2023-12-12 18:49:04.715 JST [30014] FATAL:  database "crud_database" does not exist
+2023-12-12 18:49:34.692 JST [30017] FATAL:  database "crud_database" does not exist
+2023-12-12 18:50:04.687 JST [30022] FATAL:  database "crud_database" does not exist
+2023-12-12 18:50:34.688 JST [30026] FATAL:  database "crud_database" does not exist
+2023-12-12 18:51:04.699 JST [30030] FATAL:  database "crud_database" does not exist
+2023-12-12 18:51:34.699 JST [30037] FATAL:  database "crud_database" does not exist
+2023-12-12 18:52:04.695 JST [30042] FATAL:  database "crud_database" does not exist
+2023-12-12 18:52:34.705 JST [30047] FATAL:  database "crud_database" does not exist
+2023-12-12 18:53:04.688 JST [30067] FATAL:  database "crud_database" does not exist
+2023-12-12 18:53:26.005 JST [30039] ERROR:  syntax error at or near "/" at character 1
+2023-12-12 18:53:26.005 JST [30039] STATEMENT:  /c crud_project
+	psql -U lizard -d crud_project
+	pgsql -U lizard -d crud_project
+	psql -U lizard -d crud_project -h localhost -p 5432
+	CREATE TABLE users (
+	    user_id SERIAL PRIMARY KEY,
+	    username VARCHAR(50) UNIQUE NOT NULL,
+	    email VARCHAR(100) UNIQUE NOT NULL,
+	    password VARCHAR(100) NOT NULL,
+	    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+	);
+2023-12-12 18:53:34.691 JST [30091] FATAL:  database "crud_database" does not exist
+2023-12-12 18:53:41.897 JST [30101] FATAL:  database "crud_database" does not exist
+2023-12-12 18:53:41.957 JST [30102] FATAL:  database "crud_database" does not exist
+2023-12-12 18:53:41.961 JST [30103] FATAL:  database "crud_database" does not exist
+2023-12-12 18:53:46.930 JST [30104] FATAL:  database "crud_database" does not exist
+2023-12-12 18:54:04.697 JST [30110] FATAL:  database "crud_database" does not exist
+2023-12-12 18:54:34.699 JST [30119] FATAL:  database "crud_database" does not exist
+2023-12-12 18:55:04.676 JST [30135] FATAL:  database "crud_database" does not exist
+2023-12-12 18:55:34.690 JST [30154] FATAL:  database "crud_database" does not exist
+2023-12-12 18:56:04.687 JST [30171] FATAL:  database "crud_database" does not exist
+2023-12-12 18:56:34.687 JST [30177] FATAL:  database "crud_database" does not exist
+2023-12-12 18:57:04.686 JST [30182] FATAL:  database "crud_database" does not exist
+2023-12-12 18:57:34.684 JST [30187] FATAL:  database "crud_database" does not exist
+2023-12-12 18:58:04.684 JST [30193] FATAL:  database "crud_database" does not exist
+2023-12-12 18:58:34.676 JST [30208] FATAL:  database "crud_database" does not exist
+2023-12-12 18:59:04.669 JST [30217] FATAL:  database "crud_database" does not exist
+2023-12-12 18:59:34.675 JST [30230] FATAL:  database "crud_database" does not exist
+2023-12-12 19:00:04.695 JST [30235] FATAL:  database "crud_database" does not exist
+2023-12-12 19:00:34.677 JST [30239] FATAL:  database "crud_database" does not exist
+2023-12-12 19:01:04.691 JST [30247] FATAL:  database "crud_database" does not exist
+2023-12-12 19:01:34.692 JST [30253] FATAL:  database "crud_database" does not exist
+2023-12-12 19:02:04.682 JST [30261] FATAL:  database "crud_database" does not exist
+2023-12-12 19:02:34.672 JST [30265] FATAL:  database "crud_database" does not exist
+2023-12-12 19:03:04.680 JST [30269] FATAL:  database "crud_database" does not exist
+2023-12-12 19:03:34.671 JST [30273] FATAL:  database "crud_database" does not exist
+2023-12-12 19:04:04.679 JST [30277] FATAL:  database "crud_database" does not exist
+2023-12-12 19:04:34.688 JST [30283] FATAL:  database "crud_database" does not exist
+2023-12-12 19:05:04.686 JST [30287] FATAL:  database "crud_database" does not exist
+2023-12-12 19:05:34.682 JST [30297] FATAL:  database "crud_database" does not exist
+2023-12-12 19:06:04.669 JST [30307] FATAL:  database "crud_database" does not exist
+2023-12-12 19:06:34.673 JST [30312] FATAL:  database "crud_database" does not exist
+2023-12-12 19:07:04.677 JST [30323] FATAL:  database "crud_database" does not exist
+2023-12-12 19:07:34.677 JST [30329] FATAL:  database "crud_database" does not exist
+2023-12-12 19:08:04.686 JST [30333] FATAL:  database "crud_database" does not exist
+2023-12-12 19:08:34.680 JST [30343] FATAL:  database "crud_database" does not exist
+2023-12-12 19:09:04.677 JST [30349] FATAL:  database "crud_database" does not exist
+2023-12-12 19:09:34.663 JST [30353] FATAL:  database "crud_database" does not exist
+2023-12-12 19:10:04.677 JST [30358] FATAL:  database "crud_database" does not exist
+2023-12-12 19:10:34.671 JST [30362] FATAL:  database "crud_database" does not exist
+2023-12-12 19:11:04.677 JST [30367] FATAL:  database "crud_database" does not exist
+2023-12-12 19:11:34.676 JST [30377] FATAL:  database "crud_database" does not exist
+2023-12-12 19:12:04.678 JST [30389] FATAL:  database "crud_database" does not exist
+2023-12-12 19:12:34.676 JST [30392] FATAL:  database "crud_database" does not exist
+2023-12-12 19:13:04.660 JST [30397] FATAL:  database "crud_database" does not exist
+2023-12-12 19:13:34.683 JST [30416] FATAL:  database "crud_database" does not exist
+2023-12-12 19:14:04.682 JST [30433] FATAL:  database "crud_database" does not exist
+2023-12-12 19:14:34.687 JST [30445] FATAL:  database "crud_database" does not exist
+2023-12-12 19:15:26.682 JST [30467] FATAL:  database "crud_database" does not exist
+2023-12-12 19:16:26.703 JST [30509] FATAL:  database "crud_database" does not exist
+2023-12-12 19:16:34.641 JST [30515] FATAL:  database "crud_database" does not exist
+2023-12-12 19:17:04.672 JST [30540] FATAL:  database "crud_database" does not exist
+2023-12-12 19:17:14.293 JST [30543] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 19:17:14.293 JST [30543] DETAIL:  Failing row contains (1, 2023-12-12 19:17:14.28701+09, null, null, null, 2023-12-12 19:17:14.28701+09).
+2023-12-12 19:17:14.293 JST [30543] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 19:17:34.684 JST [30551] FATAL:  database "crud_database" does not exist
+2023-12-12 19:18:04.662 JST [30593] FATAL:  database "crud_database" does not exist
+2023-12-12 19:18:34.674 JST [30605] FATAL:  database "crud_database" does not exist
+2023-12-12 19:18:59.527 JST [30608] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 19:18:59.527 JST [30608] DETAIL:  Failing row contains (2, 2023-12-12 19:18:59.524363+09, null, null, null, 2023-12-12 19:18:59.524363+09).
+2023-12-12 19:18:59.527 JST [30608] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 19:19:04.675 JST [30612] FATAL:  database "crud_database" does not exist
+2023-12-12 19:19:34.649 JST [30622] FATAL:  database "crud_database" does not exist
+2023-12-12 19:20:04.675 JST [30626] FATAL:  database "crud_database" does not exist
+2023-12-12 19:20:34.677 JST [30631] FATAL:  database "crud_database" does not exist
+2023-12-12 19:21:04.663 JST [30636] FATAL:  database "crud_database" does not exist
+2023-12-12 19:21:34.667 JST [30641] FATAL:  database "crud_database" does not exist
+2023-12-12 19:22:04.665 JST [30648] FATAL:  database "crud_database" does not exist
+2023-12-12 19:22:34.676 JST [30653] FATAL:  database "crud_database" does not exist
+2023-12-12 19:23:04.662 JST [30659] FATAL:  database "crud_database" does not exist
+2023-12-12 19:23:34.676 JST [30665] FATAL:  database "crud_database" does not exist
+2023-12-12 19:23:46.201 JST [30669] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 19:23:46.201 JST [30669] DETAIL:  Failing row contains (3, 2023-12-12 19:23:46.197524+09, null, null, null, 2023-12-12 19:23:46.197524+09).
+2023-12-12 19:23:46.201 JST [30669] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 19:23:47.790 JST [30669] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 19:23:47.790 JST [30669] DETAIL:  Failing row contains (4, 2023-12-12 19:23:47.789803+09, null, null, null, 2023-12-12 19:23:47.789803+09).
+2023-12-12 19:23:47.790 JST [30669] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 19:24:04.673 JST [30695] FATAL:  database "crud_database" does not exist
+2023-12-12 19:24:34.674 JST [30707] FATAL:  database "crud_database" does not exist
+2023-12-12 19:24:44.297 JST [30710] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 19:24:44.297 JST [30710] DETAIL:  Failing row contains (5, 2023-12-12 19:24:44.290154+09, null, null, null, 2023-12-12 19:24:44.290154+09).
+2023-12-12 19:24:44.297 JST [30710] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 19:25:04.662 JST [30717] FATAL:  database "crud_database" does not exist
+2023-12-12 19:25:34.672 JST [30725] FATAL:  database "crud_database" does not exist
+2023-12-12 19:26:04.665 JST [30730] FATAL:  database "crud_database" does not exist
+2023-12-12 19:26:34.669 JST [30734] FATAL:  database "crud_database" does not exist
+2023-12-12 19:27:04.652 JST [30739] FATAL:  database "crud_database" does not exist
+2023-12-12 19:27:34.675 JST [30743] FATAL:  database "crud_database" does not exist
+2023-12-12 19:28:04.670 JST [30748] FATAL:  database "crud_database" does not exist
+2023-12-12 19:28:34.678 JST [30759] FATAL:  database "crud_database" does not exist
+2023-12-12 19:29:04.629 JST [30769] FATAL:  database "crud_database" does not exist
+2023-12-12 19:29:34.626 JST [30781] FATAL:  database "crud_database" does not exist
+2023-12-12 19:30:04.623 JST [30792] FATAL:  database "crud_database" does not exist
+2023-12-12 19:30:34.623 JST [30797] FATAL:  database "crud_database" does not exist
+2023-12-12 19:31:04.617 JST [30807] FATAL:  database "crud_database" does not exist
+2023-12-12 19:31:34.618 JST [30811] FATAL:  database "crud_database" does not exist
+2023-12-12 19:32:04.609 JST [30820] FATAL:  database "crud_database" does not exist
+2023-12-12 19:32:34.608 JST [30832] FATAL:  database "crud_database" does not exist
+2023-12-12 19:33:04.604 JST [30869] FATAL:  database "crud_database" does not exist
+2023-12-12 19:33:34.620 JST [30900] FATAL:  database "crud_database" does not exist
+2023-12-12 19:34:04.612 JST [30913] FATAL:  database "crud_database" does not exist
+2023-12-12 19:34:34.609 JST [30921] FATAL:  database "crud_database" does not exist
+2023-12-12 19:35:04.614 JST [30925] FATAL:  database "crud_database" does not exist
+2023-12-12 19:35:34.597 JST [30934] FATAL:  database "crud_database" does not exist
+2023-12-12 19:36:04.605 JST [30938] FATAL:  database "crud_database" does not exist
+2023-12-12 19:36:34.602 JST [30942] FATAL:  database "crud_database" does not exist
+2023-12-12 19:37:04.603 JST [30946] FATAL:  database "crud_database" does not exist
+2023-12-12 19:37:34.593 JST [30964] FATAL:  database "crud_database" does not exist
+2023-12-12 19:38:04.611 JST [30970] FATAL:  database "crud_database" does not exist
+2023-12-12 19:38:34.589 JST [30975] FATAL:  database "crud_database" does not exist
+2023-12-12 19:39:04.582 JST [30997] FATAL:  database "crud_database" does not exist
+2023-12-12 19:39:34.609 JST [31008] FATAL:  database "crud_database" does not exist
+2023-12-12 19:40:04.601 JST [31019] FATAL:  database "crud_database" does not exist
+2023-12-12 19:40:34.606 JST [31022] FATAL:  database "crud_database" does not exist
+2023-12-12 19:41:04.598 JST [31027] FATAL:  database "crud_database" does not exist
+2023-12-12 19:41:34.597 JST [31032] FATAL:  database "crud_database" does not exist
+2023-12-12 19:42:04.584 JST [31042] FATAL:  database "crud_database" does not exist
+2023-12-12 19:42:26.000 JST [31051] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 19:42:26.000 JST [31051] DETAIL:  Failing row contains (6, 2023-12-12 19:42:25.993753+09, null, null, null, 2023-12-12 19:42:25.993753+09).
+2023-12-12 19:42:26.000 JST [31051] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 19:42:34.600 JST [31056] FATAL:  database "crud_database" does not exist
+2023-12-12 19:43:04.591 JST [31061] FATAL:  database "crud_database" does not exist
+2023-12-12 19:43:34.587 JST [31064] FATAL:  database "crud_database" does not exist
+2023-12-12 19:44:04.586 JST [31069] FATAL:  database "crud_database" does not exist
+2023-12-12 19:44:34.590 JST [31073] FATAL:  database "crud_database" does not exist
+2023-12-12 19:45:04.588 JST [31078] FATAL:  database "crud_database" does not exist
+2023-12-12 19:45:34.596 JST [31100] FATAL:  database "crud_database" does not exist
+2023-12-12 19:46:04.585 JST [31106] FATAL:  database "crud_database" does not exist
+2023-12-12 19:46:34.590 JST [31125] FATAL:  database "crud_database" does not exist
+2023-12-12 19:47:04.588 JST [31139] FATAL:  database "crud_database" does not exist
+2023-12-12 19:47:06.633 JST [31141] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 19:47:06.633 JST [31141] DETAIL:  Failing row contains (8, 2023-12-12 19:47:06.631648+09, null, null, null, 2023-12-12 19:47:06.631648+09).
+2023-12-12 19:47:06.633 JST [31141] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 19:47:34.584 JST [31150] FATAL:  database "crud_database" does not exist
+2023-12-12 19:48:04.591 JST [31155] FATAL:  database "crud_database" does not exist
+2023-12-12 19:48:34.578 JST [31159] FATAL:  database "crud_database" does not exist
+2023-12-12 19:49:04.569 JST [31166] FATAL:  database "crud_database" does not exist
+2023-12-12 19:49:34.585 JST [31172] FATAL:  database "crud_database" does not exist
+2023-12-12 19:50:04.577 JST [31178] FATAL:  database "crud_database" does not exist
+2023-12-12 19:50:34.584 JST [31184] FATAL:  database "crud_database" does not exist
+2023-12-12 19:50:48.192 JST [31187] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 19:50:48.192 JST [31187] DETAIL:  Failing row contains (9, 2023-12-12 19:50:48.190124+09, null, null, null, 2023-12-12 19:50:48.190124+09).
+2023-12-12 19:50:48.192 JST [31187] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 19:51:04.578 JST [31213] FATAL:  database "crud_database" does not exist
+2023-12-12 19:51:34.592 JST [31222] FATAL:  database "crud_database" does not exist
+2023-12-12 19:51:37.221 JST [31224] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 19:51:37.221 JST [31224] DETAIL:  Failing row contains (10, 2023-12-12 19:51:37.218171+09, null, null, null, 2023-12-12 19:51:37.218171+09).
+2023-12-12 19:51:37.221 JST [31224] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 19:52:04.588 JST [31238] FATAL:  database "crud_database" does not exist
+2023-12-12 19:52:34.576 JST [31241] FATAL:  database "crud_database" does not exist
+2023-12-12 19:53:04.582 JST [31246] FATAL:  database "crud_database" does not exist
+2023-12-12 19:53:34.577 JST [31268] FATAL:  database "crud_database" does not exist
+2023-12-12 19:54:04.585 JST [31282] FATAL:  database "crud_database" does not exist
+2023-12-12 19:54:34.578 JST [31286] FATAL:  database "crud_database" does not exist
+2023-12-12 19:55:04.584 JST [31291] FATAL:  database "crud_database" does not exist
+2023-12-12 19:55:34.588 JST [31305] FATAL:  database "crud_database" does not exist
+2023-12-12 19:56:04.570 JST [31320] FATAL:  database "crud_database" does not exist
+2023-12-12 19:56:34.570 JST [31329] FATAL:  database "crud_database" does not exist
+2023-12-12 19:57:04.576 JST [31334] FATAL:  database "crud_database" does not exist
+2023-12-12 19:57:34.574 JST [31342] FATAL:  database "crud_database" does not exist
+2023-12-12 19:58:04.573 JST [31365] FATAL:  database "crud_database" does not exist
+2023-12-12 19:58:34.578 JST [31380] FATAL:  database "crud_database" does not exist
+2023-12-12 19:59:04.560 JST [31389] FATAL:  database "crud_database" does not exist
+2023-12-12 19:59:34.549 JST [31393] FATAL:  database "crud_database" does not exist
+2023-12-12 20:00:04.568 JST [31405] FATAL:  database "crud_database" does not exist
+2023-12-12 20:00:34.563 JST [31409] FATAL:  database "crud_database" does not exist
+2023-12-12 20:01:04.567 JST [31413] FATAL:  database "crud_database" does not exist
+2023-12-12 20:01:34.566 JST [31418] FATAL:  database "crud_database" does not exist
+2023-12-12 20:02:04.563 JST [31422] FATAL:  database "crud_database" does not exist
+2023-12-12 20:02:34.566 JST [31425] FATAL:  database "crud_database" does not exist
+2023-12-12 20:03:04.553 JST [31430] FATAL:  database "crud_database" does not exist
+2023-12-12 20:03:34.565 JST [31446] FATAL:  database "crud_database" does not exist
+2023-12-12 20:04:04.561 JST [31452] FATAL:  database "crud_database" does not exist
+2023-12-12 20:04:34.561 JST [31456] FATAL:  database "crud_database" does not exist
+2023-12-12 20:05:04.547 JST [31461] FATAL:  database "crud_database" does not exist
+2023-12-12 20:05:34.537 JST [31464] FATAL:  database "crud_database" does not exist
+2023-12-12 20:06:04.549 JST [31476] FATAL:  database "crud_database" does not exist
+2023-12-12 20:06:34.556 JST [31499] FATAL:  database "crud_database" does not exist
+2023-12-12 20:07:04.557 JST [31510] FATAL:  database "crud_database" does not exist
+2023-12-12 20:07:34.563 JST [31513] FATAL:  database "crud_database" does not exist
+2023-12-12 20:08:04.567 JST [31517] FATAL:  database "crud_database" does not exist
+2023-12-12 20:08:34.556 JST [31527] FATAL:  database "crud_database" does not exist
+2023-12-12 20:09:04.561 JST [31531] FATAL:  database "crud_database" does not exist
+2023-12-12 20:09:34.546 JST [31536] FATAL:  database "crud_database" does not exist
+2023-12-12 20:10:04.562 JST [31542] FATAL:  database "crud_database" does not exist
+2023-12-12 20:10:34.537 JST [31546] FATAL:  database "crud_database" does not exist
+2023-12-12 20:11:04.554 JST [31550] FATAL:  database "crud_database" does not exist
+2023-12-12 20:11:34.545 JST [31554] FATAL:  database "crud_database" does not exist
+2023-12-12 20:12:04.539 JST [31559] FATAL:  database "crud_database" does not exist
+2023-12-12 20:12:34.550 JST [31562] FATAL:  database "crud_database" does not exist
+2023-12-12 20:13:04.546 JST [31567] FATAL:  database "crud_database" does not exist
+2023-12-12 20:13:34.531 JST [31570] FATAL:  database "crud_database" does not exist
+2023-12-12 20:14:04.546 JST [31576] FATAL:  database "crud_database" does not exist
+2023-12-12 20:14:34.548 JST [31579] FATAL:  database "crud_database" does not exist
+2023-12-12 20:15:04.534 JST [31585] FATAL:  database "crud_database" does not exist
+2023-12-12 20:15:34.526 JST [31598] FATAL:  database "crud_database" does not exist
+2023-12-12 20:16:04.539 JST [31605] FATAL:  database "crud_database" does not exist
+2023-12-12 20:16:34.521 JST [31641] FATAL:  database "crud_database" does not exist
+2023-12-12 20:17:04.559 JST [31688] FATAL:  database "crud_database" does not exist
+2023-12-12 20:17:34.536 JST [31710] FATAL:  database "crud_database" does not exist
+2023-12-12 20:18:04.541 JST [31724] FATAL:  database "crud_database" does not exist
+2023-12-12 20:18:34.539 JST [31751] FATAL:  database "crud_database" does not exist
+2023-12-12 20:19:04.578 JST [31760] FATAL:  database "crud_database" does not exist
+2023-12-12 20:19:34.585 JST [31773] FATAL:  database "crud_database" does not exist
+2023-12-12 20:20:04.590 JST [31783] FATAL:  database "crud_database" does not exist
+2023-12-12 20:20:34.581 JST [31791] FATAL:  database "crud_database" does not exist
+2023-12-12 20:21:04.574 JST [31796] FATAL:  database "crud_database" does not exist
+2023-12-12 20:21:34.585 JST [31800] FATAL:  database "crud_database" does not exist
+2023-12-12 20:22:04.586 JST [31804] FATAL:  database "crud_database" does not exist
+2023-12-12 20:22:34.581 JST [31810] FATAL:  database "crud_database" does not exist
+2023-12-12 20:23:04.568 JST [31816] FATAL:  database "crud_database" does not exist
+2023-12-12 20:23:34.564 JST [31824] FATAL:  database "crud_database" does not exist
+2023-12-12 20:24:04.564 JST [31852] FATAL:  database "crud_database" does not exist
+2023-12-12 20:24:34.590 JST [31861] FATAL:  database "crud_database" does not exist
+2023-12-12 20:25:04.583 JST [31866] FATAL:  database "crud_database" does not exist
+2023-12-12 20:25:29.235 JST [31870] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 20:25:29.235 JST [31870] DETAIL:  Failing row contains (11, 2023-12-12 20:25:29.230353+09, null, null, null, 2023-12-12 20:25:29.230353+09).
+2023-12-12 20:25:29.235 JST [31870] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 20:25:34.575 JST [31873] FATAL:  database "crud_database" does not exist
+2023-12-12 20:26:04.582 JST [31881] FATAL:  database "crud_database" does not exist
+2023-12-12 20:26:34.579 JST [31885] FATAL:  database "crud_database" does not exist
+2023-12-12 20:26:37.065 JST [31887] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 20:26:37.065 JST [31887] DETAIL:  Failing row contains (12, 2023-12-12 20:26:37.061384+09, null, null, null, 2023-12-12 20:26:37.061384+09).
+2023-12-12 20:26:37.065 JST [31887] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 20:27:04.581 JST [31899] FATAL:  database "crud_database" does not exist
+2023-12-12 20:27:34.574 JST [31910] FATAL:  database "crud_database" does not exist
+2023-12-12 20:28:04.581 JST [31917] FATAL:  database "crud_database" does not exist
+2023-12-12 20:28:34.571 JST [31922] FATAL:  database "crud_database" does not exist
+2023-12-12 20:29:04.569 JST [31926] FATAL:  database "crud_database" does not exist
+2023-12-12 20:29:34.557 JST [31930] FATAL:  database "crud_database" does not exist
+2023-12-12 20:29:51.121 JST [31934] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 20:29:51.121 JST [31934] DETAIL:  Failing row contains (13, 2023-12-12 20:29:51.114273+09, null, null, null, 2023-12-12 20:29:51.114273+09).
+2023-12-12 20:29:51.121 JST [31934] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 20:30:04.559 JST [31940] FATAL:  database "crud_database" does not exist
+2023-12-12 20:30:34.572 JST [31948] FATAL:  database "crud_database" does not exist
+2023-12-12 20:31:04.563 JST [31955] FATAL:  database "crud_database" does not exist
+2023-12-12 20:31:34.576 JST [31968] FATAL:  database "crud_database" does not exist
+2023-12-12 20:32:04.574 JST [31971] FATAL:  database "crud_database" does not exist
+2023-12-12 20:32:34.562 JST [31981] FATAL:  database "crud_database" does not exist
+2023-12-12 20:33:04.576 JST [31984] FATAL:  database "crud_database" does not exist
+2023-12-12 20:33:34.571 JST [31998] FATAL:  database "crud_database" does not exist
+2023-12-12 20:34:03.806 JST [32024] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 20:34:03.806 JST [32024] DETAIL:  Failing row contains (14, 2023-12-12 20:34:03.802405+09, null, null, null, 2023-12-12 20:34:03.802405+09).
+2023-12-12 20:34:03.806 JST [32024] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 20:34:04.566 JST [32025] FATAL:  database "crud_database" does not exist
+2023-12-12 20:34:34.559 JST [32035] FATAL:  database "crud_database" does not exist
+2023-12-12 20:35:04.569 JST [32038] FATAL:  database "crud_database" does not exist
+2023-12-12 20:35:34.555 JST [32072] FATAL:  database "crud_database" does not exist
+2023-12-12 20:36:01.669 JST [32076] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 20:36:01.669 JST [32076] DETAIL:  Failing row contains (15, 2023-12-12 20:36:01.665833+09, null, null, null, 2023-12-12 20:36:01.665833+09).
+2023-12-12 20:36:01.669 JST [32076] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 20:36:04.561 JST [32079] FATAL:  database "crud_database" does not exist
+2023-12-12 20:36:34.565 JST [32088] FATAL:  database "crud_database" does not exist
+2023-12-12 20:37:04.562 JST [32094] FATAL:  database "crud_database" does not exist
+2023-12-12 20:37:34.574 JST [32099] FATAL:  database "crud_database" does not exist
+2023-12-12 20:38:04.575 JST [32103] FATAL:  database "crud_database" does not exist
+2023-12-12 20:38:34.559 JST [32108] FATAL:  database "crud_database" does not exist
+2023-12-12 20:39:04.570 JST [32126] FATAL:  database "crud_database" does not exist
+2023-12-12 20:39:34.560 JST [32134] FATAL:  database "crud_database" does not exist
+2023-12-12 20:40:04.573 JST [32138] FATAL:  database "crud_database" does not exist
+2023-12-12 20:40:34.561 JST [32142] FATAL:  database "crud_database" does not exist
+2023-12-12 20:41:04.571 JST [32146] FATAL:  database "crud_database" does not exist
+2023-12-12 20:41:34.557 JST [32151] FATAL:  database "crud_database" does not exist
+2023-12-12 20:42:04.570 JST [32156] FATAL:  database "crud_database" does not exist
+2023-12-12 20:42:34.560 JST [32179] FATAL:  database "crud_database" does not exist
+2023-12-12 20:43:04.559 JST [32190] FATAL:  database "crud_database" does not exist
+2023-12-12 20:43:34.577 JST [32194] FATAL:  database "crud_database" does not exist
+2023-12-12 20:43:56.941 JST [32197] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 20:43:56.941 JST [32197] DETAIL:  Failing row contains (16, 2023-12-12 20:43:56.937349+09, null, null, null, 2023-12-12 20:43:56.937349+09).
+2023-12-12 20:43:56.941 JST [32197] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 20:44:04.562 JST [32203] FATAL:  database "crud_database" does not exist
+2023-12-12 20:44:34.561 JST [32209] FATAL:  database "crud_database" does not exist
+2023-12-12 20:45:04.550 JST [32213] FATAL:  database "crud_database" does not exist
+2023-12-12 20:45:34.558 JST [32229] FATAL:  database "crud_database" does not exist
+2023-12-12 20:46:04.552 JST [32244] FATAL:  database "crud_database" does not exist
+2023-12-12 20:46:34.549 JST [32254] FATAL:  database "crud_database" does not exist
+2023-12-12 20:47:04.575 JST [32288] FATAL:  database "crud_database" does not exist
+2023-12-12 20:47:09.355 JST [32291] FATAL:  database "crud_database" does not exist
+2023-12-12 20:47:09.407 JST [32292] FATAL:  database "crud_database" does not exist
+2023-12-12 20:47:35.012 JST [32295] FATAL:  database "crud_database" does not exist
+2023-12-12 20:47:40.532 JST [32297] FATAL:  database "crud_database" does not exist
+2023-12-12 20:48:04.569 JST [32321] FATAL:  database "crud_database" does not exist
+2023-12-12 20:48:10.530 JST [32329] FATAL:  database "crud_database" does not exist
+2023-12-12 20:48:11.832 JST [32324] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 20:48:11.832 JST [32324] DETAIL:  Failing row contains (17, 2023-12-12 20:48:11.829763+09, null, null, null, 2023-12-12 20:48:11.829763+09).
+2023-12-12 20:48:11.832 JST [32324] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 20:48:34.566 JST [32337] FATAL:  database "crud_database" does not exist
+2023-12-12 20:48:40.529 JST [32343] FATAL:  database "crud_database" does not exist
+2023-12-12 20:49:10.551 JST [32348] FATAL:  database "crud_database" does not exist
+2023-12-12 20:49:26.572 JST [32351] FATAL:  database "crud_database" does not exist
+2023-12-12 20:50:26.603 JST [32378] FATAL:  database "crud_database" does not exist
+2023-12-12 20:50:26.610 JST [32380] FATAL:  database "crud_database" does not exist
+2023-12-12 20:51:14.783 JST [32399] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 20:51:14.783 JST [32399] DETAIL:  Failing row contains (18, 2023-12-12 20:51:14.776909+09, null, null, null, 2023-12-12 20:51:14.776909+09).
+2023-12-12 20:51:14.783 JST [32399] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 20:51:26.590 JST [32405] FATAL:  database "crud_database" does not exist
+2023-12-12 20:51:26.599 JST [32407] FATAL:  database "crud_database" does not exist
+2023-12-12 20:52:18.834 JST [32420] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 20:52:18.834 JST [32420] DETAIL:  Failing row contains (19, 2023-12-12 20:52:18.831595+09, null, null, null, 2023-12-12 20:52:18.831595+09).
+2023-12-12 20:52:18.834 JST [32420] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 20:52:26.585 JST [32426] FATAL:  database "crud_database" does not exist
+2023-12-12 20:52:26.593 JST [32428] FATAL:  database "crud_database" does not exist
+2023-12-12 20:52:57.506 JST [26968] ERROR:  relation "users" does not exist
+2023-12-12 20:52:57.506 JST [26968] STATEMENT:  ALTER TABLE users
+	ALTER COLUMN username SET NOT NULL;
+2023-12-12 20:53:26.562 JST [32441] FATAL:  database "crud_database" does not exist
+2023-12-12 20:53:26.571 JST [32443] FATAL:  database "crud_database" does not exist
+2023-12-12 20:54:26.601 JST [32483] FATAL:  database "crud_database" does not exist
+2023-12-12 20:54:26.606 JST [32485] FATAL:  database "crud_database" does not exist
+2023-12-12 20:54:29.142 JST [26968] ERROR:  column "username" of relation "lizard_table" does not exist
+2023-12-12 20:54:29.142 JST [26968] STATEMENT:  ALTER TABLE lizard_table
+	ALTER COLUMN username SET NOT NULL;
+2023-12-12 20:54:37.404 JST [32486] FATAL:  database "crud_database" does not exist
+2023-12-12 20:54:39.536 JST [32487] FATAL:  database "crud_database" does not exist
+2023-12-12 20:54:53.495 JST [30112] ERROR:  relation "users" already exists
+2023-12-12 20:54:53.495 JST [30112] STATEMENT:  CREATE TABLE users (
+	    user_id SERIAL PRIMARY KEY,
+	    username VARCHAR(50) UNIQUE  NULL,
+	    email VARCHAR(100) UNIQUE  NULL,
+	    password VARCHAR(100)  NULL,
+	    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+	);
+2023-12-12 20:55:04.566 JST [32489] FATAL:  database "crud_database" does not exist
+2023-12-12 20:55:09.609 JST [32492] FATAL:  database "crud_database" does not exist
+2023-12-12 20:55:17.215 JST [32494] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 20:55:17.215 JST [32494] DETAIL:  Failing row contains (20, 2023-12-12 20:55:17.213522+09, null, null, null, 2023-12-12 20:55:17.213522+09).
+2023-12-12 20:55:17.215 JST [32494] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 20:55:34.554 JST [32501] FATAL:  database "crud_database" does not exist
+2023-12-12 20:55:40.527 JST [32507] FATAL:  database "crud_database" does not exist
+2023-12-12 20:56:04.545 JST [32512] FATAL:  database "crud_database" does not exist
+2023-12-12 20:56:10.520 JST [32515] FATAL:  database "crud_database" does not exist
+2023-12-12 20:57:26.602 JST [32539] FATAL:  database "crud_database" does not exist
+2023-12-12 20:57:26.611 JST [32541] FATAL:  database "crud_database" does not exist
+2023-12-12 20:58:26.606 JST [32550] FATAL:  database "crud_database" does not exist
+2023-12-12 20:58:26.614 JST [32552] FATAL:  database "crud_database" does not exist
+2023-12-12 20:59:26.582 JST [32559] FATAL:  database "crud_database" does not exist
+2023-12-12 20:59:26.594 JST [32561] FATAL:  database "crud_database" does not exist
+2023-12-12 21:00:26.603 JST [32566] FATAL:  database "crud_database" does not exist
+2023-12-12 21:00:26.609 JST [32568] FATAL:  database "crud_database" does not exist
+2023-12-12 21:01:26.586 JST [32573] FATAL:  database "crud_database" does not exist
+2023-12-12 21:01:26.598 JST [32575] FATAL:  database "crud_database" does not exist
+2023-12-12 21:02:26.582 JST [32588] FATAL:  database "crud_database" does not exist
+2023-12-12 21:02:26.591 JST [32590] FATAL:  database "crud_database" does not exist
+2023-12-12 21:03:26.584 JST [32605] FATAL:  database "crud_database" does not exist
+2023-12-12 21:03:26.593 JST [32607] FATAL:  database "crud_database" does not exist
+2023-12-12 21:04:26.565 JST [32617] FATAL:  database "crud_database" does not exist
+2023-12-12 21:04:26.572 JST [32619] FATAL:  database "crud_database" does not exist
+2023-12-12 21:05:26.593 JST [32647] FATAL:  database "crud_database" does not exist
+2023-12-12 21:05:26.603 JST [32649] FATAL:  database "crud_database" does not exist
+2023-12-12 21:06:26.571 JST [32662] FATAL:  database "crud_database" does not exist
+2023-12-12 21:06:26.577 JST [32664] FATAL:  database "crud_database" does not exist
+2023-12-12 21:07:26.585 JST [32671] FATAL:  database "crud_database" does not exist
+2023-12-12 21:07:26.599 JST [32673] FATAL:  database "crud_database" does not exist
+2023-12-12 21:08:26.566 JST [32677] FATAL:  database "crud_database" does not exist
+2023-12-12 21:08:26.573 JST [32679] FATAL:  database "crud_database" does not exist
+2023-12-12 21:09:26.605 JST [32684] FATAL:  database "crud_database" does not exist
+2023-12-12 21:09:26.611 JST [32686] FATAL:  database "crud_database" does not exist
+2023-12-12 21:10:26.583 JST [32695] FATAL:  database "crud_database" does not exist
+2023-12-12 21:10:26.592 JST [32697] FATAL:  database "crud_database" does not exist
+2023-12-12 21:11:26.590 JST [32705] FATAL:  database "crud_database" does not exist
+2023-12-12 21:11:26.604 JST [32707] FATAL:  database "crud_database" does not exist
+2023-12-12 21:12:26.594 JST [32713] FATAL:  database "crud_database" does not exist
+2023-12-12 21:12:26.600 JST [32715] FATAL:  database "crud_database" does not exist
+2023-12-12 21:13:26.610 JST [32720] FATAL:  database "crud_database" does not exist
+2023-12-12 21:13:26.615 JST [32722] FATAL:  database "crud_database" does not exist
+2023-12-12 21:14:26.593 JST [32728] FATAL:  database "crud_database" does not exist
+2023-12-12 21:14:26.597 JST [32730] FATAL:  database "crud_database" does not exist
+2023-12-12 21:15:26.588 JST [32760] FATAL:  database "crud_database" does not exist
+2023-12-12 21:15:26.597 JST [32762] FATAL:  database "crud_database" does not exist
+2023-12-12 21:16:26.606 JST [32775] FATAL:  database "crud_database" does not exist
+2023-12-12 21:16:26.612 JST [32777] FATAL:  database "crud_database" does not exist
+2023-12-12 21:17:26.679 JST [32828] FATAL:  database "crud_database" does not exist
+2023-12-12 21:17:26.690 JST [32832] FATAL:  database "crud_database" does not exist
+2023-12-12 21:18:26.594 JST [32855] FATAL:  database "crud_database" does not exist
+2023-12-12 21:18:26.600 JST [32857] FATAL:  database "crud_database" does not exist
+2023-12-12 21:19:26.582 JST [32864] FATAL:  database "crud_database" does not exist
+2023-12-12 21:19:26.587 JST [32866] FATAL:  database "crud_database" does not exist
+2023-12-12 21:20:26.572 JST [32872] FATAL:  database "crud_database" does not exist
+2023-12-12 21:20:26.580 JST [32874] FATAL:  database "crud_database" does not exist
+2023-12-12 21:21:26.596 JST [32882] FATAL:  database "crud_database" does not exist
+2023-12-12 21:21:26.604 JST [32884] FATAL:  database "crud_database" does not exist
+2023-12-12 21:22:26.574 JST [32894] FATAL:  database "crud_database" does not exist
+2023-12-12 21:22:26.583 JST [32896] FATAL:  database "crud_database" does not exist
+2023-12-12 21:23:26.570 JST [32906] FATAL:  database "crud_database" does not exist
+2023-12-12 21:23:26.576 JST [32908] FATAL:  database "crud_database" does not exist
+2023-12-12 21:23:43.696 JST [30039] ERROR:  syntax error at or near "AUTO_INCREMENT" at character 47
+2023-12-12 21:23:43.696 JST [30039] STATEMENT:  CREATE TABLE IF NOT EXISTS UserModel (
+	id INT AUTO_INCREMENT PRIMARY KEY,
+	title VARCHAR(255) NOT NULL,
+	content TEXT NOT NULL,
+	coverImage VARCHAR(255) NOT NULL,
+	createdAt DATETIME NOT NULL,
+	updatedAt DATETIME NOT NULL
+	);
+2023-12-12 21:24:26.598 JST [32932] FATAL:  database "crud_database" does not exist
+2023-12-12 21:24:26.611 JST [32934] FATAL:  database "crud_database" does not exist
+2023-12-12 21:25:26.572 JST [32939] FATAL:  database "crud_database" does not exist
+2023-12-12 21:25:26.576 JST [32941] FATAL:  database "crud_database" does not exist
+2023-12-12 21:26:26.595 JST [32949] FATAL:  database "crud_database" does not exist
+2023-12-12 21:26:26.605 JST [32951] FATAL:  database "crud_database" does not exist
+2023-12-12 21:27:26.572 JST [32959] FATAL:  database "crud_database" does not exist
+2023-12-12 21:27:26.577 JST [32961] FATAL:  database "crud_database" does not exist
+2023-12-12 21:28:26.554 JST [32966] FATAL:  database "crud_database" does not exist
+2023-12-12 21:28:26.562 JST [32968] FATAL:  database "crud_database" does not exist
+2023-12-12 21:29:26.582 JST [32976] FATAL:  database "crud_database" does not exist
+2023-12-12 21:29:26.589 JST [32978] FATAL:  database "crud_database" does not exist
+2023-12-12 21:30:26.572 JST [32987] FATAL:  database "crud_database" does not exist
+2023-12-12 21:30:26.580 JST [32989] FATAL:  database "crud_database" does not exist
+2023-12-12 21:31:26.572 JST [32999] FATAL:  database "crud_database" does not exist
+2023-12-12 21:31:26.577 JST [33001] FATAL:  database "crud_database" does not exist
+2023-12-12 21:32:26.577 JST [33010] FATAL:  database "crud_database" does not exist
+2023-12-12 21:32:26.583 JST [33012] FATAL:  database "crud_database" does not exist
+2023-12-12 21:33:26.575 JST [33019] FATAL:  database "crud_database" does not exist
+2023-12-12 21:33:26.588 JST [33021] FATAL:  database "crud_database" does not exist
+2023-12-12 21:34:26.591 JST [33028] FATAL:  database "crud_database" does not exist
+2023-12-12 21:34:26.598 JST [33030] FATAL:  database "crud_database" does not exist
+2023-12-12 21:35:26.566 JST [33035] FATAL:  database "crud_database" does not exist
+2023-12-12 21:35:26.571 JST [33037] FATAL:  database "crud_database" does not exist
+2023-12-12 21:36:26.587 JST [33052] FATAL:  database "crud_database" does not exist
+2023-12-12 21:36:26.603 JST [33054] FATAL:  database "crud_database" does not exist
+2023-12-12 21:37:26.582 JST [33110] FATAL:  database "crud_database" does not exist
+2023-12-12 21:37:26.587 JST [33112] FATAL:  database "crud_database" does not exist
+2023-12-12 21:38:26.587 JST [33138] FATAL:  database "crud_database" does not exist
+2023-12-12 21:38:26.591 JST [33140] FATAL:  database "crud_database" does not exist
+2023-12-12 21:39:26.572 JST [33153] FATAL:  database "crud_database" does not exist
+2023-12-12 21:39:26.582 JST [33155] FATAL:  database "crud_database" does not exist
+2023-12-12 21:40:06.008 JST [33159] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 21:40:06.008 JST [33159] DETAIL:  Failing row contains (21, 2023-12-12 21:40:06.000552+09, null, null, null, 2023-12-12 21:40:06.000552+09).
+2023-12-12 21:40:06.008 JST [33159] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 21:40:19.088 JST [33169] FATAL:  database "crud_database" does not exist
+2023-12-12 21:40:19.094 JST [33171] FATAL:  database "crud_database" does not exist
+2023-12-12 21:40:34.536 JST [33174] FATAL:  database "crud_database" does not exist
+2023-12-12 21:40:39.525 JST [33176] FATAL:  database "crud_database" does not exist
+2023-12-12 21:41:04.557 JST [33179] FATAL:  database "crud_database" does not exist
+2023-12-12 21:41:09.538 JST [33183] FATAL:  database "crud_database" does not exist
+2023-12-12 21:41:34.550 JST [33205] FATAL:  database "crud_database" does not exist
+2023-12-12 21:41:39.539 JST [33209] FATAL:  database "crud_database" does not exist
+2023-12-12 21:42:04.537 JST [33214] FATAL:  database "crud_database" does not exist
+2023-12-12 21:42:09.533 JST [33220] FATAL:  database "crud_database" does not exist
+2023-12-12 21:42:34.547 JST [33222] FATAL:  database "crud_database" does not exist
+2023-12-12 21:42:39.546 JST [33225] FATAL:  database "crud_database" does not exist
+2023-12-12 21:43:04.573 JST [33228] FATAL:  database "crud_database" does not exist
+2023-12-12 21:43:10.534 JST [33231] FATAL:  database "crud_database" does not exist
+2023-12-12 21:43:34.568 JST [33233] FATAL:  database "crud_database" does not exist
+2023-12-12 21:43:40.535 JST [33235] FATAL:  database "crud_database" does not exist
+2023-12-12 21:44:26.591 JST [33245] FATAL:  database "crud_database" does not exist
+2023-12-12 21:44:26.597 JST [33247] FATAL:  database "crud_database" does not exist
+2023-12-12 21:44:51.950 JST [33253] FATAL:  database "crud_database" does not exist
+2023-12-12 21:44:51.954 JST [33255] FATAL:  database "crud_database" does not exist
+2023-12-12 21:45:04.522 JST [33260] FATAL:  database "crud_database" does not exist
+2023-12-12 21:45:09.555 JST [33263] FATAL:  database "crud_database" does not exist
+2023-12-12 21:45:34.569 JST [33276] FATAL:  database "crud_database" does not exist
+2023-12-12 21:45:40.535 JST [33279] FATAL:  database "crud_database" does not exist
+2023-12-12 21:46:04.563 JST [33283] FATAL:  database "crud_database" does not exist
+2023-12-12 21:46:10.535 JST [33287] FATAL:  database "crud_database" does not exist
+2023-12-12 21:47:26.610 JST [33348] FATAL:  database "crud_database" does not exist
+2023-12-12 21:47:26.623 JST [33350] FATAL:  database "crud_database" does not exist
+2023-12-12 21:48:26.599 JST [33360] FATAL:  database "crud_database" does not exist
+2023-12-12 21:48:26.606 JST [33362] FATAL:  database "crud_database" does not exist
+2023-12-12 21:49:26.574 JST [33367] FATAL:  database "crud_database" does not exist
+2023-12-12 21:49:26.585 JST [33369] FATAL:  database "crud_database" does not exist
+2023-12-12 21:50:25.317 JST [33403] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 21:50:25.317 JST [33403] DETAIL:  Failing row contains (1, null, null, null, 2023-12-12 21:50:25.30665+09, 2023-12-12 21:50:25.30665+09).
+2023-12-12 21:50:25.317 JST [33403] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 21:50:26.592 JST [33407] FATAL:  database "crud_database" does not exist
+2023-12-12 21:50:26.599 JST [33409] FATAL:  database "crud_database" does not exist
+2023-12-12 21:51:26.598 JST [33429] FATAL:  database "crud_database" does not exist
+2023-12-12 21:51:26.604 JST [33431] FATAL:  database "crud_database" does not exist
+2023-12-12 21:52:26.585 JST [33437] FATAL:  database "crud_database" does not exist
+2023-12-12 21:52:26.590 JST [33439] FATAL:  database "crud_database" does not exist
+2023-12-12 21:53:26.575 JST [33444] FATAL:  database "crud_database" does not exist
+2023-12-12 21:53:26.583 JST [33446] FATAL:  database "crud_database" does not exist
+2023-12-12 21:54:26.576 JST [33489] FATAL:  database "crud_database" does not exist
+2023-12-12 21:54:26.582 JST [33492] FATAL:  database "crud_database" does not exist
+2023-12-12 21:54:52.581 JST [33502] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 21:54:52.581 JST [33502] DETAIL:  Failing row contains (2, null, null, null, 2023-12-12 21:54:52.57328+09, 2023-12-12 21:54:52.57328+09).
+2023-12-12 21:54:52.581 JST [33502] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 21:55:26.596 JST [33509] FATAL:  database "crud_database" does not exist
+2023-12-12 21:55:26.603 JST [33511] FATAL:  database "crud_database" does not exist
+2023-12-12 21:55:57.152 JST [33514] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 21:55:57.152 JST [33514] DETAIL:  Failing row contains (3, null, null, null, 2023-12-12 21:55:57.148557+09, 2023-12-12 21:55:57.148557+09).
+2023-12-12 21:55:57.152 JST [33514] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 21:56:26.597 JST [33521] FATAL:  database "crud_database" does not exist
+2023-12-12 21:56:26.614 JST [33523] FATAL:  database "crud_database" does not exist
+2023-12-12 21:57:19.962 JST [33530] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 21:57:19.962 JST [33530] DETAIL:  Failing row contains (4, null, null, null, 2023-12-12 21:57:19.960142+09, 2023-12-12 21:57:19.960142+09).
+2023-12-12 21:57:19.962 JST [33530] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 21:57:26.575 JST [33536] FATAL:  database "crud_database" does not exist
+2023-12-12 21:57:26.586 JST [33538] FATAL:  database "crud_database" does not exist
+2023-12-12 21:58:26.602 JST [33543] FATAL:  database "crud_database" does not exist
+2023-12-12 21:58:26.607 JST [33545] FATAL:  database "crud_database" does not exist
+2023-12-12 21:59:26.596 JST [33554] FATAL:  database "crud_database" does not exist
+2023-12-12 21:59:26.602 JST [33556] FATAL:  database "crud_database" does not exist
+2023-12-12 22:00:26.571 JST [33562] FATAL:  database "crud_database" does not exist
+2023-12-12 22:00:26.581 JST [33564] FATAL:  database "crud_database" does not exist
+2023-12-12 22:01:26.595 JST [33599] FATAL:  database "crud_database" does not exist
+2023-12-12 22:01:26.605 JST [33602] FATAL:  database "crud_database" does not exist
+2023-12-12 22:01:30.190 JST [33604] ERROR:  null value in column "username" of relation "users" violates not-null constraint
+2023-12-12 22:01:30.190 JST [33604] DETAIL:  Failing row contains (5, null, null, null, 2023-12-12 22:01:30.186792+09, 2023-12-12 22:01:30.186792+09).
+2023-12-12 22:01:30.190 JST [33604] STATEMENT:  INSERT INTO "users"("username", "email", "password", "created_at", "updated_at") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "user_id", "created_at", "updated_at"
+2023-12-12 22:02:26.600 JST [33620] FATAL:  database "crud_database" does not exist
+2023-12-12 22:02:26.609 JST [33623] FATAL:  database "crud_database" does not exist
+2023-12-12 22:03:26.593 JST [33632] FATAL:  database "crud_database" does not exist
+2023-12-12 22:03:26.600 JST [33635] FATAL:  database "crud_database" does not exist
+2023-12-12 22:04:26.610 JST [33649] FATAL:  database "crud_database" does not exist
+2023-12-12 22:04:26.615 JST [33652] FATAL:  database "crud_database" does not exist
+2023-12-12 22:05:26.583 JST [33657] FATAL:  database "crud_database" does not exist
+2023-12-12 22:05:26.596 JST [33660] FATAL:  database "crud_database" does not exist
+2023-12-12 22:06:26.609 JST [33674] FATAL:  database "crud_database" does not exist
+2023-12-12 22:06:26.615 JST [33677] FATAL:  database "crud_database" does not exist
+2023-12-12 22:07:26.615 JST [33685] FATAL:  database "crud_database" does not exist
+2023-12-12 22:07:26.618 JST [33688] FATAL:  database "crud_database" does not exist
+2023-12-12 22:08:26.600 JST [33697] FATAL:  database "crud_database" does not exist
+2023-12-12 22:08:26.607 JST [33700] FATAL:  database "crud_database" does not exist
+2023-12-12 22:09:26.569 JST [33710] FATAL:  database "crud_database" does not exist
+2023-12-12 22:09:26.579 JST [33712] FATAL:  database "crud_database" does not exist
+2023-12-12 22:10:26.600 JST [33723] FATAL:  database "crud_database" does not exist
+2023-12-12 22:10:26.605 JST [33725] FATAL:  database "crud_database" does not exist
+2023-12-12 22:11:26.589 JST [33730] FATAL:  database "crud_database" does not exist
+2023-12-12 22:11:26.599 JST [33732] FATAL:  database "crud_database" does not exist
+2023-12-12 22:12:26.594 JST [33742] FATAL:  database "crud_database" does not exist
+2023-12-12 22:12:26.600 JST [33744] FATAL:  database "crud_database" does not exist
+2023-12-12 22:13:26.573 JST [33748] FATAL:  database "crud_database" does not exist
+2023-12-12 22:13:26.581 JST [33750] FATAL:  database "crud_database" does not exist
+2023-12-12 22:14:26.575 JST [33760] FATAL:  database "crud_database" does not exist
+2023-12-12 22:14:26.584 JST [33762] FATAL:  database "crud_database" does not exist
+2023-12-12 22:15:26.591 JST [33781] FATAL:  database "crud_database" does not exist
+2023-12-12 22:15:26.598 JST [33783] FATAL:  database "crud_database" does not exist
+2023-12-12 22:16:26.666 JST [33807] FATAL:  database "crud_database" does not exist
+2023-12-12 22:16:26.672 JST [33811] FATAL:  database "crud_database" does not exist
+2023-12-12 22:17:26.605 JST [33860] FATAL:  database "crud_database" does not exist
+2023-12-12 22:17:26.611 JST [33862] FATAL:  database "crud_database" does not exist
+2023-12-12 22:18:26.615 JST [33898] FATAL:  database "crud_database" does not exist
+2023-12-12 22:18:26.627 JST [33900] FATAL:  database "crud_database" does not exist
+2023-12-12 22:19:26.566 JST [33929] FATAL:  database "crud_database" does not exist
+2023-12-12 22:19:26.571 JST [33931] FATAL:  database "crud_database" does not exist
+2023-12-12 22:20:26.595 JST [33960] FATAL:  database "crud_database" does not exist
+2023-12-12 22:20:26.603 JST [33962] FATAL:  database "crud_database" does not exist
+2023-12-12 22:21:26.600 JST [33992] FATAL:  database "crud_database" does not exist
+2023-12-12 22:21:26.606 JST [33994] FATAL:  database "crud_database" does not exist
+2023-12-12 22:22:26.685 JST [34039] FATAL:  database "crud_database" does not exist
+2023-12-12 22:22:26.693 JST [34041] FATAL:  database "crud_database" does not exist
+2023-12-12 22:23:26.606 JST [34050] FATAL:  database "crud_database" does not exist
+2023-12-12 22:23:26.612 JST [34052] FATAL:  database "crud_database" does not exist
+2023-12-12 22:24:26.600 JST [34062] FATAL:  database "crud_database" does not exist
+2023-12-12 22:24:26.606 JST [34064] FATAL:  database "crud_database" does not exist
+2023-12-12 22:25:26.609 JST [34075] FATAL:  database "crud_database" does not exist
+2023-12-12 22:25:26.618 JST [34077] FATAL:  database "crud_database" does not exist
+2023-12-12 22:26:26.600 JST [34086] FATAL:  database "crud_database" does not exist
+2023-12-12 22:26:26.606 JST [34088] FATAL:  database "crud_database" does not exist
+2023-12-12 22:27:26.598 JST [34102] FATAL:  database "crud_database" does not exist
+2023-12-12 22:27:26.606 JST [34104] FATAL:  database "crud_database" does not exist
+2023-12-12 22:28:26.590 JST [34116] FATAL:  database "crud_database" does not exist
+2023-12-12 22:28:26.601 JST [34118] FATAL:  database "crud_database" does not exist
+2023-12-12 22:29:26.613 JST [34131] FATAL:  database "crud_database" does not exist
+2023-12-12 22:29:26.624 JST [34133] FATAL:  database "crud_database" does not exist
+2023-12-12 22:30:26.595 JST [34150] FATAL:  database "crud_database" does not exist
+2023-12-12 22:30:26.604 JST [34152] FATAL:  database "crud_database" does not exist
+2023-12-12 22:31:26.604 JST [34158] FATAL:  database "crud_database" does not exist
+2023-12-12 22:31:26.611 JST [34160] FATAL:  database "crud_database" does not exist
+2023-12-12 22:32:26.598 JST [34171] FATAL:  database "crud_database" does not exist
+2023-12-12 22:32:26.610 JST [34173] FATAL:  database "crud_database" does not exist
+2023-12-12 22:33:26.606 JST [34206] FATAL:  database "crud_database" does not exist
+2023-12-12 22:33:26.613 JST [34208] FATAL:  database "crud_database" does not exist
+2023-12-12 22:34:26.574 JST [34221] FATAL:  database "crud_database" does not exist
+2023-12-12 22:34:26.581 JST [34223] FATAL:  database "crud_database" does not exist
+2023-12-12 22:35:16.312 JST [34234] ERROR:  invalid input syntax for type integer: ":123"
+2023-12-12 22:35:16.312 JST [34234] CONTEXT:  unnamed portal parameter $1 = '...'
+2023-12-12 22:35:16.312 JST [34234] STATEMENT:  SELECT "UserModel"."id" AS "UserModel_id", "UserModel"."title" AS "UserModel_title", "UserModel"."content" AS "UserModel_content", "UserModel"."coverImage" AS "UserModel_coverImage", "UserModel"."createdAt" AS "UserModel_createdAt", "UserModel"."updatedAt" AS "UserModel_updatedAt" FROM "user_model" "UserModel" WHERE ("UserModel"."id" = $1) LIMIT 1
+2023-12-12 22:35:26.601 JST [34242] FATAL:  database "crud_database" does not exist
+2023-12-12 22:35:26.611 JST [34244] FATAL:  database "crud_database" does not exist
+2023-12-12 22:36:26.583 JST [34252] FATAL:  database "crud_database" does not exist
+2023-12-12 22:36:26.595 JST [34254] FATAL:  database "crud_database" does not exist
+2023-12-12 22:37:26.601 JST [34266] FATAL:  database "crud_database" does not exist
+2023-12-12 22:37:26.607 JST [34268] FATAL:  database "crud_database" does not exist
+2023-12-12 22:38:26.586 JST [34277] FATAL:  database "crud_database" does not exist
+2023-12-12 22:38:26.592 JST [34279] FATAL:  database "crud_database" does not exist
+2023-12-12 22:39:26.592 JST [34293] FATAL:  database "crud_database" does not exist
+2023-12-12 22:39:26.599 JST [34295] FATAL:  database "crud_database" does not exist
+2023-12-12 22:40:26.577 JST [34300] FATAL:  database "crud_database" does not exist
+2023-12-12 22:40:26.582 JST [34302] FATAL:  database "crud_database" does not exist
+2023-12-12 22:41:26.581 JST [34320] FATAL:  database "crud_database" does not exist
+2023-12-12 22:41:26.589 JST [34322] FATAL:  database "crud_database" does not exist
+2023-12-12 22:42:26.556 JST [34332] FATAL:  database "crud_database" does not exist
+2023-12-12 22:42:26.562 JST [34334] FATAL:  database "crud_database" does not exist
+2023-12-12 22:43:26.567 JST [34340] FATAL:  database "crud_database" does not exist
+2023-12-12 22:43:26.572 JST [34342] FATAL:  database "crud_database" does not exist
+2023-12-12 22:44:26.794 JST [34365] FATAL:  database "crud_database" does not exist
+2023-12-12 22:44:26.804 JST [34367] FATAL:  database "crud_database" does not exist
+2023-12-12 22:45:26.570 JST [34382] FATAL:  database "crud_database" does not exist
+2023-12-12 22:45:26.577 JST [34384] FATAL:  database "crud_database" does not exist
+2023-12-12 22:46:21.417 JST [34401] FATAL:  database "crud_database" does not exist
+2023-12-12 22:46:21.421 JST [34403] FATAL:  database "crud_database" does not exist
+2023-12-12 22:46:34.525 JST [34406] FATAL:  database "crud_database" does not exist
+2023-12-12 22:46:40.531 JST [34407] FATAL:  database "crud_database" does not exist
+2023-12-12 22:47:04.564 JST [34415] FATAL:  database "crud_database" does not exist
+2023-12-12 22:47:10.524 JST [34420] FATAL:  database "crud_database" does not exist
+2023-12-12 22:47:34.559 JST [34431] FATAL:  database "crud_database" does not exist
+2023-12-12 22:47:39.551 JST [34447] FATAL:  database "crud_database" does not exist
+2023-12-12 22:48:04.563 JST [34449] FATAL:  database "crud_database" does not exist
+2023-12-12 22:48:09.546 JST [34453] FATAL:  database "crud_database" does not exist
+2023-12-12 22:48:34.558 JST [34456] FATAL:  database "crud_database" does not exist
+2023-12-12 22:48:39.547 JST [34458] FATAL:  database "crud_database" does not exist
+2023-12-12 22:49:04.561 JST [34460] FATAL:  database "crud_database" does not exist
+2023-12-12 22:49:09.550 JST [34463] FATAL:  database "crud_database" does not exist
+2023-12-12 22:49:34.527 JST [34466] FATAL:  database "crud_database" does not exist
+2023-12-12 22:49:39.508 JST [34468] FATAL:  database "crud_database" does not exist
+2023-12-12 22:50:01.003 JST [34452] ERROR:  column "coverimage" of relation "usermodel" does not exist at character 43
+2023-12-12 22:50:01.003 JST [34452] STATEMENT:  INSERT INTO usermodel 
+	(title,
+	 content,
+	 coverimage) VALUES 
+	("tsed",
+	"content",
+	"coverimage");
+2023-12-12 22:50:04.517 JST [34472] FATAL:  database "crud_database" does not exist
+2023-12-12 22:50:09.499 JST [34475] FATAL:  database "crud_database" does not exist
+2023-12-12 22:50:34.499 JST [34478] FATAL:  database "crud_database" does not exist
+2023-12-12 22:50:39.497 JST [34480] FATAL:  database "crud_database" does not exist
+2023-12-12 22:51:04.524 JST [34483] FATAL:  database "crud_database" does not exist
+2023-12-12 22:51:09.496 JST [34486] FATAL:  database "crud_database" does not exist
+2023-12-12 22:51:34.515 JST [34488] FATAL:  database "crud_database" does not exist
+2023-12-12 22:51:39.498 JST [34490] FATAL:  database "crud_database" does not exist
+2023-12-12 22:51:46.386 JST [34452] ERROR:  column "tsed" does not exist at character 65
+2023-12-12 22:51:46.386 JST [34452] STATEMENT:  INSERT INTO usermodel 
+	(title,
+	 content,
+	 cover_image) VALUES 
+	("tsed",
+	"content",
+	"coverimage");
+2023-12-12 22:52:04.512 JST [34496] FATAL:  database "crud_database" does not exist
+2023-12-12 22:52:09.494 JST [34504] FATAL:  database "crud_database" does not exist
+2023-12-12 22:52:34.511 JST [34516] FATAL:  database "crud_database" does not exist
+2023-12-12 22:52:39.499 JST [34520] FATAL:  database "crud_database" does not exist
+2023-12-12 22:53:04.502 JST [34523] FATAL:  database "crud_database" does not exist
+2023-12-12 22:53:09.495 JST [34526] FATAL:  database "crud_database" does not exist
+2023-12-12 22:53:34.494 JST [34543] FATAL:  database "crud_database" does not exist
+2023-12-12 22:53:40.483 JST [34560] FATAL:  database "crud_database" does not exist
+2023-12-12 22:54:04.525 JST [34564] FATAL:  database "crud_database" does not exist
+2023-12-12 22:54:10.487 JST [34568] FATAL:  database "crud_database" does not exist
+2023-12-12 22:54:34.506 JST [34590] FATAL:  database "crud_database" does not exist
+2023-12-12 22:54:40.480 JST [34592] FATAL:  database "crud_database" does not exist
+2023-12-12 22:55:26.545 JST [34642] FATAL:  database "crud_database" does not exist
+2023-12-12 22:55:26.556 JST [34644] FATAL:  database "crud_database" does not exist
+2023-12-12 22:56:26.529 JST [34664] FATAL:  database "crud_database" does not exist
+2023-12-12 22:56:26.539 JST [34666] FATAL:  database "crud_database" does not exist
+2023-12-12 22:57:26.544 JST [34674] FATAL:  database "crud_database" does not exist
+2023-12-12 22:57:26.553 JST [34676] FATAL:  database "crud_database" does not exist
+2023-12-12 22:58:26.548 JST [34683] FATAL:  database "crud_database" does not exist
+2023-12-12 22:58:26.556 JST [34685] FATAL:  database "crud_database" does not exist
+2023-12-12 22:58:29.583 JST [34688] ERROR:  column "content_image" of relation "usermodel" contains null values
+2023-12-12 22:58:29.583 JST [34688] STATEMENT:  ALTER TABLE "usermodel" ADD "content_image" character varying NOT NULL
+2023-12-12 22:59:26.574 JST [34699] FATAL:  database "crud_database" does not exist
+2023-12-12 22:59:26.578 JST [34701] FATAL:  database "crud_database" does not exist
+2023-12-12 22:59:43.344 JST [34712] FATAL:  database "crud_database" does not exist
+2023-12-12 22:59:43.348 JST [34714] FATAL:  database "crud_database" does not exist
+2023-12-12 23:00:04.502 JST [34716] FATAL:  database "crud_database" does not exist
+2023-12-12 23:00:09.499 JST [34720] FATAL:  database "crud_database" does not exist
+2023-12-12 23:00:34.504 JST [34735] FATAL:  database "crud_database" does not exist
+2023-12-12 23:00:39.500 JST [34739] FATAL:  database "crud_database" does not exist
+2023-12-12 23:01:04.518 JST [34742] FATAL:  database "crud_database" does not exist
+2023-12-12 23:01:10.472 JST [34745] FATAL:  database "crud_database" does not exist
+2023-12-12 23:01:34.507 JST [34757] FATAL:  database "crud_database" does not exist
+2023-12-12 23:01:40.476 JST [34759] FATAL:  database "crud_database" does not exist
+2023-12-12 23:02:04.501 JST [34762] FATAL:  database "crud_database" does not exist
+2023-12-12 23:02:26.507 JST [34769] FATAL:  database "crud_database" does not exist
+2023-12-12 23:02:50.142 JST [34786] FATAL:  database "crud_database" does not exist
+2023-12-12 23:02:50.151 JST [34788] FATAL:  database "crud_database" does not exist
+2023-12-12 23:03:04.468 JST [34793] FATAL:  database "crud_database" does not exist
+2023-12-12 23:03:09.491 JST [34795] FATAL:  database "crud_database" does not exist
+2023-12-12 23:03:34.511 JST [34798] FATAL:  database "crud_database" does not exist
+2023-12-12 23:03:40.470 JST [34801] FATAL:  database "crud_database" does not exist
+2023-12-12 23:04:04.502 JST [34808] FATAL:  database "crud_database" does not exist
+2023-12-12 23:04:10.473 JST [34811] FATAL:  database "crud_database" does not exist
+2023-12-12 23:05:26.521 JST [34830] FATAL:  database "crud_database" does not exist
+2023-12-12 23:05:26.531 JST [34832] FATAL:  database "crud_database" does not exist
+2023-12-12 23:06:26.526 JST [34850] FATAL:  database "crud_database" does not exist
+2023-12-12 23:06:26.531 JST [34852] FATAL:  database "crud_database" does not exist
+2023-12-12 23:07:26.534 JST [34880] FATAL:  database "crud_database" does not exist
+2023-12-12 23:07:26.543 JST [34882] FATAL:  database "crud_database" does not exist
+2023-12-12 23:08:26.533 JST [34887] FATAL:  database "crud_database" does not exist
+2023-12-12 23:08:26.541 JST [34889] FATAL:  database "crud_database" does not exist
+2023-12-12 23:09:26.508 JST [34895] FATAL:  database "crud_database" does not exist
+2023-12-12 23:09:26.515 JST [34897] FATAL:  database "crud_database" does not exist
+2023-12-12 23:10:26.542 JST [34903] FATAL:  database "crud_database" does not exist
+2023-12-12 23:10:26.548 JST [34905] FATAL:  database "crud_database" does not exist
+2023-12-12 23:11:03.346 JST [34921] FATAL:  database "crud_database" does not exist
+2023-12-12 23:11:03.352 JST [34923] FATAL:  database "crud_database" does not exist
+2023-12-12 23:11:09.483 JST [34927] FATAL:  database "crud_database" does not exist
+2023-12-12 23:11:34.500 JST [34929] FATAL:  database "crud_database" does not exist
+2023-12-12 23:11:40.465 JST [34934] FATAL:  database "crud_database" does not exist
+2023-12-12 23:12:04.489 JST [34941] FATAL:  database "crud_database" does not exist
+2023-12-12 23:12:22.417 JST [34950] FATAL:  database "crud_database" does not exist
+2023-12-12 23:12:34.466 JST [34957] FATAL:  database "crud_database" does not exist
+2023-12-12 23:12:40.463 JST [34960] FATAL:  database "crud_database" does not exist
+2023-12-12 23:13:04.496 JST [34964] FATAL:  database "crud_database" does not exist
+2023-12-12 23:13:10.462 JST [34967] FATAL:  database "crud_database" does not exist
+2023-12-12 23:14:26.549 JST [34974] FATAL:  database "crud_database" does not exist
+2023-12-12 23:14:26.555 JST [34976] FATAL:  database "crud_database" does not exist
+2023-12-12 23:14:41.674 JST [34981] FATAL:  database "crud_database" does not exist
+2023-12-12 23:14:41.678 JST [34983] FATAL:  database "crud_database" does not exist
+2023-12-12 23:15:04.494 JST [34989] FATAL:  database "crud_database" does not exist
+2023-12-12 23:15:10.461 JST [34992] FATAL:  database "crud_database" does not exist
+2023-12-12 23:15:34.511 JST [35006] FATAL:  database "crud_database" does not exist
+2023-12-12 23:15:40.463 JST [35013] FATAL:  database "crud_database" does not exist
+2023-12-12 23:16:04.507 JST [35021] FATAL:  database "crud_database" does not exist
+2023-12-12 23:16:10.463 JST [35026] FATAL:  database "crud_database" does not exist
+2023-12-12 23:16:34.485 JST [35035] FATAL:  database "crud_database" does not exist
+2023-12-12 23:16:40.462 JST [35038] FATAL:  database "crud_database" does not exist
+2023-12-12 23:17:04.494 JST [35055] FATAL:  database "crud_database" does not exist
+2023-12-12 23:17:09.483 JST [35060] FATAL:  database "crud_database" does not exist
+2023-12-12 23:17:34.492 JST [35067] FATAL:  database "crud_database" does not exist
+2023-12-12 23:17:40.461 JST [35070] FATAL:  database "crud_database" does not exist
+2023-12-12 23:18:04.490 JST [35121] FATAL:  database "crud_database" does not exist
+2023-12-12 23:18:10.458 JST [35128] FATAL:  database "crud_database" does not exist
+2023-12-12 23:19:21.455 JST [35152] FATAL:  database "crud_database" does not exist
+2023-12-12 23:19:21.459 JST [35154] FATAL:  database "crud_database" does not exist
+2023-12-12 23:19:34.454 JST [35159] FATAL:  database "crud_database" does not exist
+2023-12-12 23:19:39.478 JST [35160] FATAL:  database "crud_database" does not exist
+2023-12-12 23:20:04.496 JST [35162] FATAL:  database "crud_database" does not exist
+2023-12-12 23:20:09.491 JST [35175] FATAL:  database "crud_database" does not exist
+2023-12-12 23:21:11.035 JST [35195] FATAL:  database "crud_database" does not exist
+2023-12-12 23:21:17.006 JST [35198] FATAL:  database "crud_database" does not exist
+2023-12-12 23:38:03.718 JST [35236] FATAL:  database "crud_database" does not exist
+2023-12-12 23:38:09.721 JST [35240] FATAL:  database "crud_database" does not exist
+2023-12-13 01:09:24.316 JST [35282] FATAL:  database "crud_database" does not exist
+2023-12-13 01:09:24.347 JST [35285] FATAL:  database "crud_database" does not exist
+2023-12-13 03:21:42.193 JST [35332] FATAL:  database "crud_database" does not exist
+2023-12-13 03:21:42.232 JST [35336] FATAL:  database "crud_database" does not exist
+2023-12-13 06:28:14.825 JST [35374] FATAL:  database "crud_database" does not exist
+2023-12-13 06:28:14.847 JST [35376] FATAL:  database "crud_database" does not exist
+2023-12-13 09:25:32.997 JST [35408] FATAL:  database "crud_database" does not exist
+2023-12-13 09:25:33.012 JST [35410] FATAL:  database "crud_database" does not exist
+2023-12-13 10:22:23.030 JST [35429] FATAL:  database "crud_database" does not exist
+2023-12-13 10:22:23.043 JST [35431] FATAL:  database "crud_database" does not exist
+2023-12-13 10:22:40.512 JST [35439] FATAL:  database "crud_database" does not exist
+2023-12-13 10:22:46.469 JST [35443] FATAL:  database "crud_database" does not exist
+2023-12-13 10:23:10.469 JST [35453] FATAL:  database "crud_database" does not exist
+2023-12-13 10:23:15.483 JST [35455] FATAL:  database "crud_database" does not exist
+2023-12-13 10:23:40.517 JST [35458] FATAL:  database "crud_database" does not exist
+2023-12-13 10:23:45.485 JST [35460] FATAL:  database "crud_database" does not exist
+2023-12-13 10:24:10.510 JST [35463] FATAL:  database "crud_database" does not exist
+2023-12-13 10:24:16.468 JST [35471] FATAL:  database "crud_database" does not exist
+2023-12-13 10:24:40.505 JST [35478] FATAL:  database "crud_database" does not exist
+2023-12-13 10:24:45.487 JST [35480] FATAL:  database "crud_database" does not exist
+2023-12-13 10:25:10.515 JST [35482] FATAL:  database "crud_database" does not exist
+2023-12-13 10:25:16.466 JST [35484] FATAL:  database "crud_database" does not exist
+2023-12-13 10:25:40.515 JST [35498] FATAL:  database "crud_database" does not exist
+2023-12-13 10:25:46.467 JST [35500] FATAL:  database "crud_database" does not exist
+2023-12-13 10:26:10.496 JST [35511] FATAL:  database "crud_database" does not exist
+2023-12-13 10:26:16.465 JST [35513] FATAL:  database "crud_database" does not exist
+2023-12-13 10:26:40.503 JST [35517] FATAL:  database "crud_database" does not exist
+2023-12-13 10:26:46.462 JST [35519] FATAL:  database "crud_database" does not exist
+2023-12-13 10:27:32.511 JST [35525] FATAL:  database "crud_database" does not exist
+2023-12-13 10:27:32.517 JST [35527] FATAL:  database "crud_database" does not exist
+2023-12-13 10:28:32.522 JST [35546] FATAL:  database "crud_database" does not exist
+2023-12-13 10:28:32.528 JST [35548] FATAL:  database "crud_database" does not exist
+2023-12-13 10:29:32.507 JST [35554] FATAL:  database "crud_database" does not exist
+2023-12-13 10:29:32.514 JST [35556] FATAL:  database "crud_database" does not exist
+2023-12-13 10:30:32.513 JST [35563] FATAL:  database "crud_database" does not exist
+2023-12-13 10:30:32.519 JST [35565] FATAL:  database "crud_database" does not exist
+2023-12-13 10:31:32.507 JST [35572] FATAL:  database "crud_database" does not exist
+2023-12-13 10:31:32.513 JST [35574] FATAL:  database "crud_database" does not exist
+2023-12-13 10:32:32.504 JST [35580] FATAL:  database "crud_database" does not exist
+2023-12-13 10:32:32.514 JST [35582] FATAL:  database "crud_database" does not exist
+2023-12-13 10:33:32.498 JST [35589] FATAL:  database "crud_database" does not exist
+2023-12-13 10:33:32.510 JST [35591] FATAL:  database "crud_database" does not exist
+2023-12-13 10:34:32.491 JST [35596] FATAL:  database "crud_database" does not exist
+2023-12-13 10:34:32.498 JST [35598] FATAL:  database "crud_database" does not exist
+2023-12-13 10:35:32.499 JST [35603] FATAL:  database "crud_database" does not exist
+2023-12-13 10:35:32.511 JST [35605] FATAL:  database "crud_database" does not exist
+2023-12-13 10:36:32.491 JST [35612] FATAL:  database "crud_database" does not exist
+2023-12-13 10:36:32.500 JST [35614] FATAL:  database "crud_database" does not exist
+2023-12-13 10:37:32.481 JST [35619] FATAL:  database "crud_database" does not exist
+2023-12-13 10:37:32.488 JST [35621] FATAL:  database "crud_database" does not exist
+2023-12-13 10:38:32.506 JST [35627] FATAL:  database "crud_database" does not exist
+2023-12-13 10:38:32.512 JST [35629] FATAL:  database "crud_database" does not exist
+2023-12-13 10:39:32.491 JST [35634] FATAL:  database "crud_database" does not exist
+2023-12-13 10:39:32.497 JST [35636] FATAL:  database "crud_database" does not exist
+2023-12-13 10:40:32.497 JST [35642] FATAL:  database "crud_database" does not exist
+2023-12-13 10:40:32.502 JST [35644] FATAL:  database "crud_database" does not exist
+2023-12-13 10:41:32.484 JST [35660] FATAL:  database "crud_database" does not exist
+2023-12-13 10:41:32.489 JST [35662] FATAL:  database "crud_database" does not exist
+2023-12-13 10:42:32.509 JST [35685] FATAL:  database "crud_database" does not exist
+2023-12-13 10:42:32.514 JST [35687] FATAL:  database "crud_database" does not exist
+2023-12-13 10:43:32.490 JST [35692] FATAL:  database "crud_database" does not exist
+2023-12-13 10:43:32.501 JST [35694] FATAL:  database "crud_database" does not exist
+2023-12-13 10:44:32.484 JST [35700] FATAL:  database "crud_database" does not exist
+2023-12-13 10:44:32.492 JST [35702] FATAL:  database "crud_database" does not exist
+2023-12-13 10:45:32.480 JST [35708] FATAL:  database "crud_database" does not exist
+2023-12-13 10:45:32.488 JST [35710] FATAL:  database "crud_database" does not exist
+2023-12-13 10:46:32.499 JST [35730] FATAL:  database "crud_database" does not exist
+2023-12-13 10:46:32.511 JST [35732] FATAL:  database "crud_database" does not exist
+2023-12-13 10:47:32.478 JST [35737] FATAL:  database "crud_database" does not exist
+2023-12-13 10:47:32.486 JST [35739] FATAL:  database "crud_database" does not exist
+2023-12-13 10:48:32.495 JST [35746] FATAL:  database "crud_database" does not exist
+2023-12-13 10:48:32.507 JST [35748] FATAL:  database "crud_database" does not exist
+2023-12-13 10:49:32.494 JST [35764] FATAL:  database "crud_database" does not exist
+2023-12-13 10:49:32.501 JST [35766] FATAL:  database "crud_database" does not exist
+2023-12-13 10:50:08.506 JST [35774] FATAL:  database "crud_database" does not exist
+2023-12-13 10:50:08.511 JST [35776] FATAL:  database "crud_database" does not exist
+2023-12-13 10:50:10.420 JST [35777] FATAL:  database "crud_database" does not exist
+2023-12-13 10:50:15.443 JST [35787] FATAL:  database "crud_database" does not exist
+2023-12-13 10:50:25.475 JST [35450] ERROR:  column "cover_image" of relation "usermodel" does not exist at character 40
+2023-12-13 10:50:25.475 JST [35450] STATEMENT:  INSERT INTO usermodel (title, content, cover_image) VALUES 
+	('tsed',
+	'content',
+	'coverimage');
+	
+	
+	SELECT * FROM usermodel;
+2023-12-13 10:50:40.451 JST [35808] FATAL:  database "crud_database" does not exist
+2023-12-13 10:50:45.446 JST [35811] FATAL:  database "crud_database" does not exist
+2023-12-13 10:51:10.440 JST [35813] FATAL:  database "crud_database" does not exist
+2023-12-13 10:51:15.450 JST [35816] FATAL:  database "crud_database" does not exist
+2023-12-13 10:51:40.416 JST [35820] FATAL:  database "crud_database" does not exist
+2023-12-13 10:51:45.435 JST [35823] FATAL:  database "crud_database" does not exist
+2023-12-13 10:52:10.422 JST [35833] FATAL:  database "crud_database" does not exist
+2023-12-13 10:52:15.451 JST [35834] FATAL:  database "crud_database" does not exist
+2023-12-13 10:52:40.466 JST [35846] FATAL:  database "crud_database" does not exist
+2023-12-13 10:52:45.445 JST [35849] FATAL:  database "crud_database" does not exist
+2023-12-13 10:53:10.450 JST [35852] FATAL:  database "crud_database" does not exist
+2023-12-13 10:53:15.442 JST [35854] FATAL:  database "crud_database" does not exist
+2023-12-13 10:53:40.453 JST [35856] FATAL:  database "crud_database" does not exist
+2023-12-13 10:53:45.442 JST [35859] FATAL:  database "crud_database" does not exist
+2023-12-13 10:54:10.444 JST [35862] FATAL:  database "crud_database" does not exist
+2023-12-13 10:54:15.439 JST [35864] FATAL:  database "crud_database" does not exist
+2023-12-13 10:54:40.442 JST [35865] FATAL:  database "crud_database" does not exist
+2023-12-13 10:54:45.440 JST [35868] FATAL:  database "crud_database" does not exist
+2023-12-13 10:55:10.453 JST [35877] FATAL:  database "crud_database" does not exist
+2023-12-13 10:55:16.420 JST [35883] FATAL:  database "crud_database" does not exist
+2023-12-13 10:55:40.446 JST [35891] FATAL:  database "crud_database" does not exist
+2023-12-13 10:55:46.418 JST [35894] FATAL:  database "crud_database" does not exist
+2023-12-13 10:56:32.449 JST [35907] FATAL:  database "crud_database" does not exist
+2023-12-13 10:56:32.457 JST [35909] FATAL:  database "crud_database" does not exist
+2023-12-13 10:57:32.488 JST [35933] FATAL:  database "crud_database" does not exist
+2023-12-13 10:57:32.493 JST [35935] FATAL:  database "crud_database" does not exist
+2023-12-13 10:58:06.297 JST [35951] FATAL:  database "crud_database" does not exist
+2023-12-13 10:58:06.303 JST [35953] FATAL:  database "crud_database" does not exist
+2023-12-13 10:58:10.409 JST [35956] FATAL:  database "crud_database" does not exist
+2023-12-13 10:58:15.436 JST [35957] FATAL:  database "crud_database" does not exist
+2023-12-13 10:58:40.446 JST [35960] FATAL:  database "crud_database" does not exist
+2023-12-13 10:58:45.440 JST [35963] FATAL:  database "crud_database" does not exist
+2023-12-13 10:59:10.474 JST [35965] FATAL:  database "crud_database" does not exist
+2023-12-13 10:59:16.437 JST [35972] FATAL:  database "crud_database" does not exist
+2023-12-13 10:59:40.475 JST [35979] FATAL:  database "crud_database" does not exist
+2023-12-13 10:59:46.437 JST [35982] FATAL:  database "crud_database" does not exist
+2023-12-13 11:00:10.480 JST [35984] FATAL:  database "crud_database" does not exist
+2023-12-13 11:00:16.434 JST [35986] FATAL:  database "crud_database" does not exist
+2023-12-13 11:01:32.477 JST [36006] FATAL:  database "crud_database" does not exist
+2023-12-13 11:01:32.482 JST [36008] FATAL:  database "crud_database" does not exist
+2023-12-13 11:01:56.284 JST [36019] FATAL:  database "crud_database" does not exist
+2023-12-13 11:01:56.288 JST [36021] FATAL:  database "crud_database" does not exist
+2023-12-13 11:02:10.428 JST [36023] FATAL:  database "crud_database" does not exist
+2023-12-13 11:02:15.442 JST [36024] FATAL:  database "crud_database" does not exist
+2023-12-13 11:02:40.451 JST [36027] FATAL:  database "crud_database" does not exist
+2023-12-13 11:02:45.448 JST [36031] FATAL:  database "crud_database" does not exist
+2023-12-13 11:03:10.471 JST [36033] FATAL:  database "crud_database" does not exist
+2023-12-13 11:03:15.448 JST [36035] FATAL:  database "crud_database" does not exist
+2023-12-13 11:03:32.348 JST [35450] ERROR:  column "cover_image" of relation "usermodel" does not exist at character 40
+2023-12-13 11:03:32.348 JST [35450] STATEMENT:  INSERT INTO usermodel (title, content, cover_image) VALUES 
+	('tsed',
+	'content',
+	'coverimage');
+	
+	
+	SELECT * FROM usermodel;
+2023-12-13 11:03:40.429 JST [36041] FATAL:  database "crud_database" does not exist
+2023-12-13 11:03:45.453 JST [36044] FATAL:  database "crud_database" does not exist
+2023-12-13 11:04:10.462 JST [36047] FATAL:  database "crud_database" does not exist
+2023-12-13 11:04:15.445 JST [36049] FATAL:  database "crud_database" does not exist
+2023-12-13 11:04:40.525 JST [36052] FATAL:  database "crud_database" does not exist
+2023-12-13 11:04:45.444 JST [36056] FATAL:  database "crud_database" does not exist
+2023-12-13 11:05:07.986 JST [36058] ERROR:  relation "your_table_name" does not exist at character 15
+2023-12-13 11:05:07.986 JST [36058] STATEMENT:  SELECT * FROM your_table_name WHERE id = 493;
+	
+2023-12-13 11:05:10.428 JST [36061] FATAL:  database "crud_database" does not exist
+2023-12-13 11:05:15.453 JST [36062] FATAL:  database "crud_database" does not exist
+2023-12-13 11:05:40.467 JST [36064] FATAL:  database "crud_database" does not exist
+2023-12-13 11:05:45.439 JST [36067] FATAL:  database "crud_database" does not exist
+2023-12-13 11:06:10.453 JST [36076] FATAL:  database "crud_database" does not exist
+2023-12-13 11:06:15.457 JST [36078] FATAL:  database "crud_database" does not exist
+2023-12-13 11:06:40.453 JST [36082] FATAL:  database "crud_database" does not exist
+2023-12-13 11:06:45.444 JST [36085] FATAL:  database "crud_database" does not exist
+2023-12-13 11:06:52.677 JST [36058] ERROR:  column "id" does not exist at character 27
+2023-12-13 11:06:52.677 JST [36058] STATEMENT:  SELECT * FROM users WHERE id = 493;
+	
+	
+2023-12-13 11:07:10.438 JST [36089] FATAL:  database "crud_database" does not exist
+2023-12-13 11:07:15.450 JST [36091] FATAL:  database "crud_database" does not exist
+2023-12-13 11:07:40.462 JST [36094] FATAL:  database "crud_database" does not exist
+2023-12-13 11:07:45.446 JST [36097] FATAL:  database "crud_database" does not exist
+2023-12-13 11:08:10.427 JST [36101] FATAL:  database "crud_database" does not exist
+2023-12-13 11:08:15.444 JST [36103] FATAL:  database "crud_database" does not exist
+2023-12-13 11:08:40.474 JST [36105] FATAL:  database "crud_database" does not exist
+2023-12-13 11:08:46.426 JST [36108] FATAL:  database "crud_database" does not exist
+2023-12-13 11:09:10.447 JST [36110] FATAL:  database "crud_database" does not exist
+2023-12-13 11:09:16.421 JST [36112] FATAL:  database "crud_database" does not exist
+2023-12-13 11:10:32.463 JST [36119] FATAL:  database "crud_database" does not exist
+2023-12-13 11:10:32.471 JST [36121] FATAL:  database "crud_database" does not exist
+2023-12-13 11:11:32.474 JST [36127] FATAL:  database "crud_database" does not exist
+2023-12-13 11:11:32.488 JST [36129] FATAL:  database "crud_database" does not exist
+2023-12-13 11:12:32.469 JST [36147] FATAL:  database "crud_database" does not exist
+2023-12-13 11:12:32.475 JST [36149] FATAL:  database "crud_database" does not exist
+2023-12-13 11:12:54.045 JST [36156] FATAL:  database "crud_database" does not exist
+2023-12-13 11:12:54.051 JST [36158] FATAL:  database "crud_database" does not exist
+2023-12-13 11:13:10.463 JST [36164] FATAL:  database "crud_database" does not exist
+2023-12-13 11:13:16.421 JST [36166] FATAL:  database "crud_database" does not exist
+2023-12-13 11:13:40.463 JST [36168] FATAL:  database "crud_database" does not exist
+2023-12-13 11:13:46.422 JST [36172] FATAL:  database "crud_database" does not exist
+2023-12-13 11:14:10.455 JST [36174] FATAL:  database "crud_database" does not exist
+2023-12-13 11:14:15.432 JST [36176] FATAL:  database "crud_database" does not exist
+2023-12-13 11:14:40.410 JST [36181] FATAL:  database "crud_database" does not exist
+2023-12-13 11:14:45.427 JST [36183] FATAL:  database "crud_database" does not exist
+2023-12-13 11:15:10.465 JST [36186] FATAL:  database "crud_database" does not exist
+2023-12-13 11:15:15.434 JST [36188] FATAL:  database "crud_database" does not exist
+2023-12-13 11:15:40.438 JST [36191] FATAL:  database "crud_database" does not exist
+2023-12-13 11:15:45.431 JST [36195] FATAL:  database "crud_database" does not exist
+2023-12-13 11:16:10.428 JST [36199] FATAL:  database "crud_database" does not exist
+2023-12-13 11:16:15.432 JST [36201] FATAL:  database "crud_database" does not exist
+2023-12-13 11:16:21.864 JST [36189] ERROR:  column "id" does not exist at character 27
+2023-12-13 11:16:21.864 JST [36189] STATEMENT:  SELECT * FROM users WHERE id = 5;
+2023-12-13 11:16:40.448 JST [36204] FATAL:  database "crud_database" does not exist
+2023-12-13 11:16:45.436 JST [36207] FATAL:  database "crud_database" does not exist
+2023-12-13 11:17:10.472 JST [36212] FATAL:  database "crud_database" does not exist
+2023-12-13 11:17:15.429 JST [36217] FATAL:  database "crud_database" does not exist
+2023-12-13 11:17:40.447 JST [36226] FATAL:  database "crud_database" does not exist
+2023-12-13 11:17:45.430 JST [36229] FATAL:  database "crud_database" does not exist
+2023-12-13 11:18:10.448 JST [36232] FATAL:  database "crud_database" does not exist
+2023-12-13 11:18:15.430 JST [36234] FATAL:  database "crud_database" does not exist
+2023-12-13 11:18:40.460 JST [36236] FATAL:  database "crud_database" does not exist
+2023-12-13 11:18:46.412 JST [36239] FATAL:  database "crud_database" does not exist
+2023-12-13 11:19:10.458 JST [36241] FATAL:  database "crud_database" does not exist
+2023-12-13 11:19:16.414 JST [36244] FATAL:  database "crud_database" does not exist
+2023-12-13 11:20:32.464 JST [36256] FATAL:  database "crud_database" does not exist
+2023-12-13 11:20:32.478 JST [36258] FATAL:  database "crud_database" does not exist
+2023-12-13 11:21:32.483 JST [36263] FATAL:  database "crud_database" does not exist
+2023-12-13 11:21:32.488 JST [36265] FATAL:  database "crud_database" does not exist
+2023-12-13 11:22:32.453 JST [36272] FATAL:  database "crud_database" does not exist
+2023-12-13 11:22:32.462 JST [36273] FATAL:  database "crud_database" does not exist
+2023-12-13 11:23:32.466 JST [36285] FATAL:  database "crud_database" does not exist
+2023-12-13 11:23:32.472 JST [36287] FATAL:  database "crud_database" does not exist
+2023-12-13 11:24:32.501 JST [36293] FATAL:  database "crud_database" does not exist
+2023-12-13 11:24:32.508 JST [36295] FATAL:  database "crud_database" does not exist
+2023-12-13 11:25:32.480 JST [36307] FATAL:  database "crud_database" does not exist
+2023-12-13 11:25:32.488 JST [36309] FATAL:  database "crud_database" does not exist
+2023-12-13 11:26:32.518 JST [36332] FATAL:  database "crud_database" does not exist
+2023-12-13 11:26:32.527 JST [36336] FATAL:  database "crud_database" does not exist
+2023-12-13 11:27:32.490 JST [36364] FATAL:  database "crud_database" does not exist
+2023-12-13 11:27:32.501 JST [36366] FATAL:  database "crud_database" does not exist
+2023-12-13 11:28:32.482 JST [36402] FATAL:  database "crud_database" does not exist
+2023-12-13 11:28:32.491 JST [36404] FATAL:  database "crud_database" does not exist
+2023-12-13 11:29:32.473 JST [36417] FATAL:  database "crud_database" does not exist
+2023-12-13 11:29:32.477 JST [36419] FATAL:  database "crud_database" does not exist
+2023-12-13 11:30:32.439 JST [36426] FATAL:  database "crud_database" does not exist
+2023-12-13 11:30:32.450 JST [36428] FATAL:  database "crud_database" does not exist
+2023-12-13 11:31:32.465 JST [36435] FATAL:  database "crud_database" does not exist
+2023-12-13 11:31:32.474 JST [36437] FATAL:  database "crud_database" does not exist
+2023-12-13 11:32:32.439 JST [36453] FATAL:  database "crud_database" does not exist
+2023-12-13 11:32:32.444 JST [36455] FATAL:  database "crud_database" does not exist
+2023-12-13 11:33:32.444 JST [36460] FATAL:  database "crud_database" does not exist
+2023-12-13 11:33:32.455 JST [36462] FATAL:  database "crud_database" does not exist
+2023-12-13 11:34:32.433 JST [36468] FATAL:  database "crud_database" does not exist
+2023-12-13 11:34:32.445 JST [36470] FATAL:  database "crud_database" does not exist
+2023-12-13 11:35:32.461 JST [36476] FATAL:  database "crud_database" does not exist
+2023-12-13 11:35:32.468 JST [36478] FATAL:  database "crud_database" does not exist
+2023-12-13 11:36:32.456 JST [36484] FATAL:  database "crud_database" does not exist
+2023-12-13 11:36:32.463 JST [36486] FATAL:  database "crud_database" does not exist
+2023-12-13 11:37:32.437 JST [36492] FATAL:  database "crud_database" does not exist
+2023-12-13 11:37:32.444 JST [36494] FATAL:  database "crud_database" does not exist
+2023-12-13 11:38:32.479 JST [36503] FATAL:  database "crud_database" does not exist
+2023-12-13 11:38:32.484 JST [36505] FATAL:  database "crud_database" does not exist
+2023-12-13 11:39:32.444 JST [36516] FATAL:  database "crud_database" does not exist
+2023-12-13 11:39:32.453 JST [36518] FATAL:  database "crud_database" does not exist
+2023-12-13 11:40:32.435 JST [36523] FATAL:  database "crud_database" does not exist
+2023-12-13 11:40:32.439 JST [36525] FATAL:  database "crud_database" does not exist
+2023-12-13 11:41:32.435 JST [36531] FATAL:  database "crud_database" does not exist
+2023-12-13 11:41:32.440 JST [36533] FATAL:  database "crud_database" does not exist
+2023-12-13 11:42:32.438 JST [36539] FATAL:  database "crud_database" does not exist
+2023-12-13 11:42:32.446 JST [36541] FATAL:  database "crud_database" does not exist
+2023-12-13 11:43:32.428 JST [36547] FATAL:  database "crud_database" does not exist
+2023-12-13 11:43:32.435 JST [36549] FATAL:  database "crud_database" does not exist
+2023-12-13 11:44:32.457 JST [36583] FATAL:  database "crud_database" does not exist
+2023-12-13 11:44:32.468 JST [36585] FATAL:  database "crud_database" does not exist
+2023-12-13 11:45:32.432 JST [36592] FATAL:  database "crud_database" does not exist
+2023-12-13 11:45:32.440 JST [36594] FATAL:  database "crud_database" does not exist
+2023-12-13 11:46:32.444 JST [36630] FATAL:  database "crud_database" does not exist
+2023-12-13 11:46:32.456 JST [36633] FATAL:  database "crud_database" does not exist
+2023-12-13 11:47:32.460 JST [36642] FATAL:  database "crud_database" does not exist
+2023-12-13 11:47:32.465 JST [36644] FATAL:  database "crud_database" does not exist
+2023-12-13 11:48:32.468 JST [36657] FATAL:  database "crud_database" does not exist
+2023-12-13 11:48:32.478 JST [36659] FATAL:  database "crud_database" does not exist
+2023-12-13 11:49:32.465 JST [36671] FATAL:  database "crud_database" does not exist
+2023-12-13 11:49:32.474 JST [36673] FATAL:  database "crud_database" does not exist
+2023-12-13 11:50:32.448 JST [36685] FATAL:  database "crud_database" does not exist
+2023-12-13 11:50:32.461 JST [36687] FATAL:  database "crud_database" does not exist
+2023-12-13 11:51:32.435 JST [36692] FATAL:  database "crud_database" does not exist
+2023-12-13 11:51:32.441 JST [36694] FATAL:  database "crud_database" does not exist
+2023-12-13 11:52:32.434 JST [36719] FATAL:  database "crud_database" does not exist
+2023-12-13 11:52:32.446 JST [36721] FATAL:  database "crud_database" does not exist
+2023-12-13 11:53:32.444 JST [36733] FATAL:  database "crud_database" does not exist
+2023-12-13 11:53:32.459 JST [36735] FATAL:  database "crud_database" does not exist
+2023-12-13 11:54:32.401 JST [36741] FATAL:  database "crud_database" does not exist
+2023-12-13 11:54:32.407 JST [36743] FATAL:  database "crud_database" does not exist
+2023-12-13 11:55:32.431 JST [36782] FATAL:  database "crud_database" does not exist
+2023-12-13 11:55:32.437 JST [36784] FATAL:  database "crud_database" does not exist
+2023-12-13 11:56:32.417 JST [36828] FATAL:  database "crud_database" does not exist
+2023-12-13 11:56:32.423 JST [36830] FATAL:  database "crud_database" does not exist
+2023-12-13 11:57:32.426 JST [36859] FATAL:  database "crud_database" does not exist
+2023-12-13 11:57:32.434 JST [36861] FATAL:  database "crud_database" does not exist
+2023-12-13 11:58:32.430 JST [36870] FATAL:  database "crud_database" does not exist
+2023-12-13 11:58:32.435 JST [36872] FATAL:  database "crud_database" does not exist
+2023-12-13 11:59:32.421 JST [36898] FATAL:  database "crud_database" does not exist
+2023-12-13 11:59:32.428 JST [36900] FATAL:  database "crud_database" does not exist
+2023-12-13 12:00:32.405 JST [36907] FATAL:  database "crud_database" does not exist
+2023-12-13 12:00:32.415 JST [36909] FATAL:  database "crud_database" does not exist
+2023-12-13 12:01:32.397 JST [36914] FATAL:  database "crud_database" does not exist
+2023-12-13 12:01:32.409 JST [36916] FATAL:  database "crud_database" does not exist
+2023-12-13 12:02:32.391 JST [36952] FATAL:  database "crud_database" does not exist
+2023-12-13 12:02:32.398 JST [36954] FATAL:  database "crud_database" does not exist
+2023-12-13 12:03:32.409 JST [36995] FATAL:  database "crud_database" does not exist
+2023-12-13 12:03:32.420 JST [36997] FATAL:  database "crud_database" does not exist
+2023-12-13 12:04:32.419 JST [37017] FATAL:  database "crud_database" does not exist
+2023-12-13 12:04:32.423 JST [37019] FATAL:  database "crud_database" does not exist
+2023-12-13 12:05:22.329 JST [37023] FATAL:  database "crud_database" does not exist
+2023-12-13 12:05:22.338 JST [37025] FATAL:  database "crud_database" does not exist
+2023-12-13 12:05:40.360 JST [37033] FATAL:  database "crud_database" does not exist
+2023-12-13 12:05:45.362 JST [37040] FATAL:  database "crud_database" does not exist
+2023-12-13 12:06:10.370 JST [37044] FATAL:  database "crud_database" does not exist
+2023-12-13 12:06:15.354 JST [37046] FATAL:  database "crud_database" does not exist
+2023-12-13 12:06:40.374 JST [37049] FATAL:  database "crud_database" does not exist
+2023-12-13 12:06:45.364 JST [37053] FATAL:  database "crud_database" does not exist
+2023-12-13 12:07:10.368 JST [37054] FATAL:  database "crud_database" does not exist
+2023-12-13 12:07:15.359 JST [37056] FATAL:  database "crud_database" does not exist
+2023-12-13 12:07:40.360 JST [37060] FATAL:  database "crud_database" does not exist
+2023-12-13 12:07:45.353 JST [37063] FATAL:  database "crud_database" does not exist
+2023-12-13 12:08:10.364 JST [37090] FATAL:  database "crud_database" does not exist
+2023-12-13 12:08:15.350 JST [37097] FATAL:  database "crud_database" does not exist
+2023-12-13 12:08:40.361 JST [37104] FATAL:  database "crud_database" does not exist
+2023-12-13 12:08:45.349 JST [37122] FATAL:  database "crud_database" does not exist
+2023-12-13 12:09:10.359 JST [37131] FATAL:  database "crud_database" does not exist
+2023-12-13 12:09:15.351 JST [37133] FATAL:  database "crud_database" does not exist
+2023-12-13 12:09:40.347 JST [37135] FATAL:  database "crud_database" does not exist
+2023-12-13 12:09:45.360 JST [37139] FATAL:  database "crud_database" does not exist
+2023-12-13 12:10:10.368 JST [37141] FATAL:  database "crud_database" does not exist
+2023-12-13 12:10:15.358 JST [37143] FATAL:  database "crud_database" does not exist
+2023-12-13 12:10:40.372 JST [37146] FATAL:  database "crud_database" does not exist
+2023-12-13 12:10:45.361 JST [37149] FATAL:  database "crud_database" does not exist
+2023-12-13 12:11:10.362 JST [37152] FATAL:  database "crud_database" does not exist
+2023-12-13 12:11:15.361 JST [37154] FATAL:  database "crud_database" does not exist
+2023-12-13 12:11:40.355 JST [37158] FATAL:  database "crud_database" does not exist
+2023-12-13 12:11:45.354 JST [37161] FATAL:  database "crud_database" does not exist
+2023-12-13 12:12:10.368 JST [37164] FATAL:  database "crud_database" does not exist
+2023-12-13 12:12:15.357 JST [37166] FATAL:  database "crud_database" does not exist
+2023-12-13 12:12:40.364 JST [37168] FATAL:  database "crud_database" does not exist
+2023-12-13 12:12:45.350 JST [37171] FATAL:  database "crud_database" does not exist
+2023-12-13 12:13:10.387 JST [37174] FATAL:  database "crud_database" does not exist
+2023-12-13 12:13:15.349 JST [37176] FATAL:  database "crud_database" does not exist
+2023-12-13 12:13:40.345 JST [37185] FATAL:  database "crud_database" does not exist
+2023-12-13 12:13:45.344 JST [37190] FATAL:  database "crud_database" does not exist
+2023-12-13 12:14:10.352 JST [37197] FATAL:  database "crud_database" does not exist
+2023-12-13 12:14:15.347 JST [37200] FATAL:  database "crud_database" does not exist
+2023-12-13 12:14:40.355 JST [37205] FATAL:  database "crud_database" does not exist
+2023-12-13 12:14:45.353 JST [37208] FATAL:  database "crud_database" does not exist
+2023-12-13 12:15:10.350 JST [37211] FATAL:  database "crud_database" does not exist
+2023-12-13 12:15:15.353 JST [37214] FATAL:  database "crud_database" does not exist
+2023-12-13 12:15:40.360 JST [37220] FATAL:  database "crud_database" does not exist
+2023-12-13 12:15:45.350 JST [37225] FATAL:  database "crud_database" does not exist
+2023-12-13 12:16:10.344 JST [37233] FATAL:  database "crud_database" does not exist
+2023-12-13 12:16:15.352 JST [37238] FATAL:  database "crud_database" does not exist
+2023-12-13 12:16:40.354 JST [37249] FATAL:  database "crud_database" does not exist
+2023-12-13 12:16:46.326 JST [37252] FATAL:  database "crud_database" does not exist
+2023-12-13 12:17:10.349 JST [37254] FATAL:  database "crud_database" does not exist
+2023-12-13 12:17:15.336 JST [37256] FATAL:  database "crud_database" does not exist
+2023-12-13 12:17:40.361 JST [37260] FATAL:  database "crud_database" does not exist
+2023-12-13 12:17:45.352 JST [37264] FATAL:  database "crud_database" does not exist
+2023-12-13 12:18:10.351 JST [37267] FATAL:  database "crud_database" does not exist
+2023-12-13 12:18:15.350 JST [37269] FATAL:  database "crud_database" does not exist
+2023-12-13 12:18:40.355 JST [37273] FATAL:  database "crud_database" does not exist
+2023-12-13 12:18:45.350 JST [37276] FATAL:  database "crud_database" does not exist
+2023-12-13 12:19:10.361 JST [37278] FATAL:  database "crud_database" does not exist
+2023-12-13 12:19:15.350 JST [37280] FATAL:  database "crud_database" does not exist
+2023-12-13 12:19:40.358 JST [37284] FATAL:  database "crud_database" does not exist
+2023-12-13 12:19:45.348 JST [37287] FATAL:  database "crud_database" does not exist
+2023-12-13 12:24:40.125 JST [37307] FATAL:  database "crud_database" does not exist
+2023-12-13 12:24:45.143 JST [37309] FATAL:  database "crud_database" does not exist
+2023-12-13 12:25:10.168 JST [37319] FATAL:  database "crud_database" does not exist
+2023-12-13 12:25:15.148 JST [37322] FATAL:  database "crud_database" does not exist
+2023-12-13 12:25:40.171 JST [37325] FATAL:  database "crud_database" does not exist
+2023-12-13 12:25:45.148 JST [37327] FATAL:  database "crud_database" does not exist
+2023-12-13 12:26:10.157 JST [37329] FATAL:  database "crud_database" does not exist
+2023-12-13 12:26:15.147 JST [37332] FATAL:  database "crud_database" does not exist
+2023-12-13 12:26:40.160 JST [37338] FATAL:  database "crud_database" does not exist
+2023-12-13 12:26:45.147 JST [37340] FATAL:  database "crud_database" does not exist
+2023-12-13 12:27:10.177 JST [37342] FATAL:  database "crud_database" does not exist
+2023-12-13 12:27:15.156 JST [37345] FATAL:  database "crud_database" does not exist
+2023-12-13 12:27:40.157 JST [37363] FATAL:  database "crud_database" does not exist
+2023-12-13 12:27:46.132 JST [37370] FATAL:  database "crud_database" does not exist
+2023-12-13 12:28:10.168 JST [37396] FATAL:  database "crud_database" does not exist
+2023-12-13 12:28:16.131 JST [37399] FATAL:  database "crud_database" does not exist
+2023-12-13 12:29:02.198 JST [37410] FATAL:  database "crud_database" does not exist
+2023-12-13 12:29:02.204 JST [37412] FATAL:  database "crud_database" does not exist
+2023-12-13 12:30:02.211 JST [37424] FATAL:  database "crud_database" does not exist
+2023-12-13 12:30:02.221 JST [37426] FATAL:  database "crud_database" does not exist
+2023-12-13 12:30:43.390 JST [37454] FATAL:  database "crud_database" does not exist
+2023-12-13 12:30:43.395 JST [37456] FATAL:  database "crud_database" does not exist
+2023-12-13 12:30:45.151 JST [37458] FATAL:  database "crud_database" does not exist
+2023-12-13 12:31:10.149 JST [37468] FATAL:  database "crud_database" does not exist
+2023-12-13 12:31:15.149 JST [37471] FATAL:  database "crud_database" does not exist
+2023-12-13 12:31:40.168 JST [37486] FATAL:  database "crud_database" does not exist
+2023-12-13 12:31:45.150 JST [37490] FATAL:  database "crud_database" does not exist
+2023-12-13 12:32:10.170 JST [37493] FATAL:  database "crud_database" does not exist
+2023-12-13 12:32:15.148 JST [37496] FATAL:  database "crud_database" does not exist
+2023-12-13 12:32:40.164 JST [37499] FATAL:  database "crud_database" does not exist
+2023-12-13 12:32:45.147 JST [37501] FATAL:  database "crud_database" does not exist
+2023-12-13 12:33:10.166 JST [37505] FATAL:  database "crud_database" does not exist
+2023-12-13 12:33:15.143 JST [37508] FATAL:  database "crud_database" does not exist
+2023-12-13 12:33:40.162 JST [37510] FATAL:  database "crud_database" does not exist
+2023-12-13 12:33:45.144 JST [37512] FATAL:  database "crud_database" does not exist
+2023-12-13 12:34:10.151 JST [37516] FATAL:  database "crud_database" does not exist
+2023-12-13 12:34:15.143 JST [37519] FATAL:  database "crud_database" does not exist
+2023-12-13 12:34:40.165 JST [37521] FATAL:  database "crud_database" does not exist
+2023-12-13 12:34:45.142 JST [37523] FATAL:  database "crud_database" does not exist
+2023-12-13 12:35:10.159 JST [37528] FATAL:  database "crud_database" does not exist
+2023-12-13 12:35:15.141 JST [37532] FATAL:  database "crud_database" does not exist
+2023-12-13 12:35:40.162 JST [37536] FATAL:  database "crud_database" does not exist
+2023-12-13 12:35:45.149 JST [37553] FATAL:  database "crud_database" does not exist
+2023-12-13 12:36:10.153 JST [37580] FATAL:  database "crud_database" does not exist
+2023-12-13 12:36:15.146 JST [37584] FATAL:  database "crud_database" does not exist
+2023-12-13 12:36:40.152 JST [37592] FATAL:  database "crud_database" does not exist
+2023-12-13 12:36:45.148 JST [37595] FATAL:  database "crud_database" does not exist
+2023-12-13 12:37:10.154 JST [37598] FATAL:  database "crud_database" does not exist
+2023-12-13 12:37:15.147 JST [37601] FATAL:  database "crud_database" does not exist
+2023-12-13 12:37:40.158 JST [37604] FATAL:  database "crud_database" does not exist
+2023-12-13 12:37:45.150 JST [37606] FATAL:  database "crud_database" does not exist
+2023-12-13 12:38:10.142 JST [37609] FATAL:  database "crud_database" does not exist
+2023-12-13 12:38:15.140 JST [37612] FATAL:  database "crud_database" does not exist
+2023-12-13 12:38:40.157 JST [37615] FATAL:  database "crud_database" does not exist
+2023-12-13 12:38:45.138 JST [37617] FATAL:  database "crud_database" does not exist
+2023-12-13 12:39:10.152 JST [37622] FATAL:  database "crud_database" does not exist
+2023-12-13 12:39:15.142 JST [37625] FATAL:  database "crud_database" does not exist
+2023-12-13 12:39:40.159 JST [37628] FATAL:  database "crud_database" does not exist
+2023-12-13 12:39:45.139 JST [37630] FATAL:  database "crud_database" does not exist
+2023-12-13 12:40:10.158 JST [37634] FATAL:  database "crud_database" does not exist
+2023-12-13 12:40:15.130 JST [37637] FATAL:  database "crud_database" does not exist
+2023-12-13 12:40:40.161 JST [37641] FATAL:  database "crud_database" does not exist
+2023-12-13 12:40:46.122 JST [37646] FATAL:  database "crud_database" does not exist
+2023-12-13 12:41:10.152 JST [37650] FATAL:  database "crud_database" does not exist
+2023-12-13 12:41:16.120 JST [37654] FATAL:  database "crud_database" does not exist
+2023-12-13 12:42:02.160 JST [37659] FATAL:  database "crud_database" does not exist
+2023-12-13 12:42:02.167 JST [37661] FATAL:  database "crud_database" does not exist
+2023-12-13 12:42:34.790 JST [37684] FATAL:  database "crud_database" does not exist
+2023-12-13 12:42:34.798 JST [37686] FATAL:  database "crud_database" does not exist
+2023-12-13 12:42:40.121 JST [37688] FATAL:  database "crud_database" does not exist
+2023-12-13 12:42:45.146 JST [37690] FATAL:  database "crud_database" does not exist
+2023-12-13 12:43:10.159 JST [37694] FATAL:  database "crud_database" does not exist
+2023-12-13 12:43:15.140 JST [37697] FATAL:  database "crud_database" does not exist
+2023-12-13 12:43:40.148 JST [37700] FATAL:  database "crud_database" does not exist
+2023-12-13 12:43:46.121 JST [37702] FATAL:  database "crud_database" does not exist
+2023-12-13 12:44:10.156 JST [37705] FATAL:  database "crud_database" does not exist
+2023-12-13 12:44:16.118 JST [37708] FATAL:  database "crud_database" does not exist
+2023-12-13 12:45:02.163 JST [37712] FATAL:  database "crud_database" does not exist
+2023-12-13 12:45:02.169 JST [37714] FATAL:  database "crud_database" does not exist
+2023-12-13 12:45:11.648 JST [37716] FATAL:  database "crud_database" does not exist
+2023-12-13 12:45:15.144 JST [37718] FATAL:  database "crud_database" does not exist
+2023-12-13 12:45:40.162 JST [37734] FATAL:  database "crud_database" does not exist
+2023-12-13 12:45:46.117 JST [37737] FATAL:  database "crud_database" does not exist
+2023-12-13 12:46:10.150 JST [37745] FATAL:  database "crud_database" does not exist
+2023-12-13 12:46:16.127 JST [37749] FATAL:  database "crud_database" does not exist
+2023-12-13 12:46:40.139 JST [37768] FATAL:  database "crud_database" does not exist
+2023-12-13 12:46:46.113 JST [37770] FATAL:  database "crud_database" does not exist
+2023-12-13 12:47:10.152 JST [37778] FATAL:  database "crud_database" does not exist
+2023-12-13 12:47:16.116 JST [37781] FATAL:  database "crud_database" does not exist
+2023-12-13 12:47:40.156 JST [37784] FATAL:  database "crud_database" does not exist
+2023-12-13 12:48:02.152 JST [37790] FATAL:  database "crud_database" does not exist
+2023-12-13 12:49:02.154 JST [37797] FATAL:  database "crud_database" does not exist
+2023-12-13 12:49:02.159 JST [37799] FATAL:  database "crud_database" does not exist
+2023-12-13 12:49:11.508 JST [37800] FATAL:  database "crud_database" does not exist
+2023-12-13 12:49:15.127 JST [37802] FATAL:  database "crud_database" does not exist
+2023-12-13 12:49:40.153 JST [37805] FATAL:  database "crud_database" does not exist
+2023-12-13 12:49:45.139 JST [37807] FATAL:  database "crud_database" does not exist
+2023-12-13 12:50:10.181 JST [37811] FATAL:  database "crud_database" does not exist
+2023-12-13 12:50:15.125 JST [37814] FATAL:  database "crud_database" does not exist
+2023-12-13 12:50:40.153 JST [37817] FATAL:  database "crud_database" does not exist
+2023-12-13 12:50:46.118 JST [37820] FATAL:  database "crud_database" does not exist
+2023-12-13 14:48:25.729 JST [38638] ERROR:  column "conditions" does not exist at character 26
+2023-12-13 14:48:25.729 JST [38638] STATEMENT:  SELECT * FROM user WHERE conditions;
+2023-12-13 14:49:12.282 JST [38638] ERROR:  column "title" does not exist at character 26
+2023-12-13 14:49:12.282 JST [38638] STATEMENT:  SELECT * FROM user WHERE title;
+2023-12-13 14:49:17.835 JST [38638] ERROR:  column "id" does not exist at character 26
+2023-12-13 14:49:17.835 JST [38638] STATEMENT:  SELECT * FROM user WHERE id;
+2023-12-13 14:50:58.438 JST [38638] ERROR:  syntax error at or near "user" at character 13
+2023-12-13 14:50:58.438 JST [38638] STATEMENT:  INSERT INTO user (id, title, content) VALUES (1, 'value2', 'value3');
+2023-12-13 14:57:05.552 JST [38691] ERROR:  syntax error at or near "user" at character 8
+2023-12-13 14:57:05.552 JST [38691] STATEMENT:  UPDATE user
+	SET id = 1
+	WHERE id = 2;
+	
+2023-12-13 14:57:44.712 JST [38691] ERROR:  syntax error at or near "'user'" at character 8
+2023-12-13 14:57:44.712 JST [38691] STATEMENT:  UPDATE 'user'
+	SET id = 1
+	WHERE id = 2;
+	
+2023-12-13 14:59:24.352 JST [38691] ERROR:  column "id" does not exist at character 26
+2023-12-13 14:59:24.352 JST [38691] STATEMENT:  SELECT * FROM user WHERE id = 1;
+	
+2023-12-13 15:01:02.512 JST [38691] ERROR:  column "id" does not exist at character 28
+2023-12-13 15:01:02.512 JST [38691] STATEMENT:  SELECT * FROM "user" WHERE id = 1;
+	
+	
+	
+2023-12-13 15:01:05.512 JST [38691] ERROR:  column "user_id" does not exist at character 28
+2023-12-13 15:01:05.512 JST [38691] STATEMENT:  SELECT * FROM "user" WHERE user_id = 1;
+	
+	
+	
+2023-12-13 15:01:17.802 JST [38691] ERROR:  column "id" does not exist at character 28
+2023-12-13 15:01:17.802 JST [38691] STATEMENT:  SELECT * FROM "user" WHERE id = 1;
+	
+	
+	
+2023-12-13 16:15:37.342 JST [38691] ERROR:  column "id" does not exist at character 26
+2023-12-13 16:15:37.342 JST [38691] STATEMENT:  SELECT * FROM user WHERE id = 3;
+	
+2023-12-13 16:15:47.805 JST [38691] ERROR:  invalid input syntax for type integer: "id" at character 26
+2023-12-13 16:15:47.805 JST [38691] STATEMENT:  SELECT * FROM user WHERE 'id' = 3;
+	
+2023-12-13 16:15:58.888 JST [38691] ERROR:  column "id" does not exist at character 26
+2023-12-13 16:15:58.888 JST [38691] STATEMENT:  SELECT * FROM user WHERE "id" = 3;
+	
+2023-12-13 17:01:27.573 JST [42378] ERROR:  null value in column "title" of relation "user" violates not-null constraint
+2023-12-13 17:01:27.573 JST [42378] DETAIL:  Failing row contains (null, null, null, 2023-12-13 17:01:27.571417, 2023-12-13 17:01:27.571417, null).
+2023-12-13 17:01:27.573 JST [42378] STATEMENT:  INSERT INTO "user"("id", "title", "content", "content_image", "createdAt", "updatedAt") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "createdAt", "updatedAt"
+2023-12-13 17:04:41.364 JST [42434] ERROR:  null value in column "title" of relation "user" violates not-null constraint
+2023-12-13 17:04:41.364 JST [42434] DETAIL:  Failing row contains (null, null, null, 2023-12-13 17:04:41.361062, 2023-12-13 17:04:41.361062, null).
+2023-12-13 17:04:41.364 JST [42434] STATEMENT:  INSERT INTO "user"("id", "title", "content", "content_image", "createdAt", "updatedAt") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "createdAt", "updatedAt"
+2023-12-13 17:06:22.588 JST [42449] ERROR:  null value in column "title" of relation "user" violates not-null constraint
+2023-12-13 17:06:22.588 JST [42449] DETAIL:  Failing row contains (null, null, null, 2023-12-13 17:06:22.586372, 2023-12-13 17:06:22.586372, null).
+2023-12-13 17:06:22.588 JST [42449] STATEMENT:  INSERT INTO "user"("id", "title", "content", "content_image", "createdAt", "updatedAt") VALUES (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) RETURNING "createdAt", "updatedAt"
+2023-12-13 20:04:20.255 JST [38691] ERROR:  syntax error at or near "user" at character 1
+2023-12-13 20:04:20.255 JST [38691] STATEMENT:  user
+2023-12-13 20:04:26.836 JST [38691] ERROR:  syntax error at or near "user" at character 13
+2023-12-13 20:04:26.836 JST [38691] STATEMENT:  INSERT INTO user (title, content) VALUES ('Sample Title', 'Sample Content');
+	
+	
+	
+2023-12-13 20:04:51.323 JST [38691] ERROR:  syntax error at or near "'user'" at character 13
+2023-12-13 20:04:51.323 JST [38691] STATEMENT:  INSERT INTO 'user' (title, content) VALUES ('Sample Title', 'Sample Content');
+	
+	
+	
+2023-12-13 20:05:21.651 JST [38691] ERROR:  syntax error at or near "'user'" at character 13
+2023-12-13 20:05:21.651 JST [38691] STATEMENT:  INSERT INTO 'user' (title, content) VALUES ('Sample Title', 'Sample Content');
+	
+2023-12-13 20:05:35.011 JST [38691] ERROR:  syntax error at or near "user" at character 13
+2023-12-13 20:05:35.011 JST [38691] STATEMENT:  INSERT INTO user (title, content) VALUES ('Sample Title', 'Sample Content');
+	
+2023-12-13 20:06:16.555 JST [38691] ERROR:  null value in column "id" of relation "user" violates not-null constraint
+2023-12-13 20:06:16.555 JST [38691] DETAIL:  Failing row contains (Sample Title, Sample Content, null, 2023-12-13 20:06:16.550583, 2023-12-13 20:06:16.550583, null).
+2023-12-13 20:06:16.555 JST [38691] STATEMENT:  INSERT INTO "user" (title, content) VALUES ('Sample Title', 'Sample Content');
+	
+2023-12-13 20:07:20.472 JST [38691] ERROR:  column "created_at" of relation "user" does not exist at character 37
+2023-12-13 20:07:20.472 JST [38691] STATEMENT:  INSERT INTO "user" (title, content, created_at, updated_at) 
+	VALUES ('Sample Title', 'Sample Content', current_timestamp, current_timestamp);
+	
+2023-12-13 20:09:20.635 JST [38638] ERROR:  null value in column "id" of relation "user" violates not-null constraint
+2023-12-13 20:09:20.635 JST [38638] DETAIL:  Failing row contains (Sample Title, Sample Content, null, 2023-12-13 20:09:20.633318, 2023-12-13 20:09:20.633318, null, 2023-12-13 20:09:20.633318, 2023-12-13 20:09:20.633318).
+2023-12-13 20:09:20.635 JST [38638] STATEMENT:  INSERT INTO "user" (title, content, created_at, updated_at) 
+	VALUES ('Sample Title', 'Sample Content', current_timestamp, current_timestamp);
+	
+2023-12-13 20:10:29.030 JST [38638] ERROR:  duplicate key value violates unique constraint "user_pkey"
+2023-12-13 20:10:29.030 JST [38638] DETAIL:  Key (id)=(2) already exists.
+2023-12-13 20:10:29.030 JST [38638] STATEMENT:  INSERT INTO "user" (id, title, content, created_at, updated_at) 
+	VALUES (2, 'Sample Title', 'Sample Content', current_timestamp, current_timestamp);
+	
+2023-12-13 20:14:52.629 JST [38638] ERROR:  column "column1" does not exist at character 8
+2023-12-13 20:14:52.629 JST [38638] STATEMENT:  SELECT column1, column2 FROM user;
+	
+2023-12-13 20:15:13.728 JST [38638] ERROR:  column "title" does not exist at character 8
+2023-12-13 20:15:13.728 JST [38638] STATEMENT:  SELECT title, content FROM user;
+	
+2023-12-13 20:15:33.363 JST [38638] ERROR:  syntax error at or near "'user'" at character 28
+2023-12-13 20:15:33.363 JST [38638] STATEMENT:  SELECT title, content FROM 'user';
+	
+2023-12-13 20:40:40.170 JST [45881] ERROR:  invalid input syntax for type integer: "{"type":"object"}"
+2023-12-13 20:40:40.170 JST [45881] CONTEXT:  unnamed portal parameter $1 = '...'
+2023-12-13 20:40:40.170 JST [45881] STATEMENT:  SELECT "User"."id" AS "User_id", "User"."title" AS "User_title", "User"."content" AS "User_content", "User"."content_image" AS "User_content_image", "User"."createdAt" AS "User_createdAt", "User"."updatedAt" AS "User_updatedAt" FROM "user" "User" WHERE ("User"."id" = $1) LIMIT 1
